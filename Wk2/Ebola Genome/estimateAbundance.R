@@ -1,36 +1,31 @@
+# check working directory and make sure
+# estimateAbundance.R and KM034562v1.fa are in that directory
+# getwd()
+# setwd("Ebola Genome")
 # get genome and avoid title with header = T
 ebola.genome <- read.table("KM034562v1.fa", header = T)
 
 estimateAbundance <- function(genome = ebola.genome, nucleotide = c("A", "T", "C", "G")){
-  abundances <- vector("numeric",length(nucleotide))
-  names(abundances) <- nucleotide
-  
-  # first convert to character vector
-  genome.rows <- as.vector(ebola.genome[,1], mode = "character")
-  
-  genome.str <- vector("character")
-  # join into one string
-  for(i in 1:length(genome.rows)){
-    genome.str <- paste(genome.str,genome.rows[i], collapse = '')
-  }
+  # first convert to character one long string
+  genome.str <- paste(ebola.genome[,1], collapse = '')
   
   # split into individual nucleotides and return it as a vector
   ebola.nucleotides <- unlist(strsplit(genome.str, split = NULL))
-  
-  for(i in 1:length(nucleotide)){
-    abundances[i] = sum(ebola.nucleotides == nucleotide[i])
-  }
+  # summarize the data
+  nucleotides.table <- table(ebola.nucleotides)
   
   # plot barplots
-  if(length(abundances) > 1){ 
-    barplot(abundances, 
-            col = rainbow(length(abundances)),
-            main = "Abundance of Nucleotides in Ebola Virus Genome",
+  if(length(nucleotides.table) > 1){ 
+    barplot(nucleotides.table, 
+            col = rainbow(length(nucleotides.table)),
+            main = "Abundance of Nucleotides\n in the Ebola Virus Genome",
             xlab = "Nucleotide",
-            ylab = "Abundance")
+            ylab = "Abundance"
+            )
   }
   
-  return(abundances)
+  return(nucleotides.table)
 }
 
-estimateAbundance(,c("T", "G", "A"))
+# sample run
+estimateAbundance(,c("T", "G", "A", "C"))
