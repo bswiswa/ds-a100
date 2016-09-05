@@ -10,7 +10,7 @@ estimateAbundance <- function(genome = ebola.genome, nucleotide = c("A", "T", "C
   genome.str <- paste(ebola.genome[,1], collapse = '')
   
   # split into individual nucleotides and return it as a vector
-  ebola.nucleotides <- unlist(strsplit(genome.str, split = NULL))
+  ebola.nucleotides <- unlist(strsplit(genome.str, split = ''))
   # summarize the data
   nucleotides.table <- table(ebola.nucleotides)
   
