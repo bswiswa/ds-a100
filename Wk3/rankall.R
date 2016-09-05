@@ -5,14 +5,6 @@
 
 # get data
 hosp.data <- read.csv("../Wk2/Ranking Hospitals - cont/outcome-of-care-measures.csv", colClasses = "character")
-# get states
-require(datasets)
-data(state)
-
-# function to check whether state is wrong
-wrong.state <- function(abb){
-  return(!abb %in% state.abb)
-}
 
 # function to check whether outcome is wrong
 wrong.outcome <- function(outc){
