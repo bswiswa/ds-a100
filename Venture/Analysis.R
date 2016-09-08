@@ -66,6 +66,15 @@ inds = union(grep("[Aa]ir", origins),grep("[Aa]ir", destinations))
 load(file="Durations.RData")
 driveTimeMinutes = durations$Time$Time/60
 
+##############################
+# processing needed
+# need variable PU.Day - which contains the day of the week of the pickup
+# need variable Actual.Duration which has the actual MINUTES the journey took
+# need to separate all my calculations by the Service.Type
+
+# optional
+# best driver?
+
 
 
 
