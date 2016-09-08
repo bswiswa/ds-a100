@@ -1,0 +1,524 @@
+PU Date,PU Time,DO Time,Duration,Routing Details,Driver,Service Type,Payments/Deposits (excluding AUTH_ONLY),Trip Total
+12/01/2015,04:15 AM,06:15 AM,02:00,"PU: Father's Address, 21 Harding Road, Old Greenwich CT; DO: LaGuardia Airport; ",Jim Pelka,One Way Drop Off,84.00,84.00
+12/01/2015,06:00 AM,08:00 AM,02:00,"PU: Home, 34 Meeting House Rd., Greenwich CT; DO: Office, 1585 Broadway, New York NY; ",Preston Goddard,Daily/Weekly Driver,65.67,65.67
+12/01/2015,06:30 AM,11:30 AM,05:00,"PU: P/up car from garage, 1401 4th Avenue, New Hyde Park ; PU: P/up client from Office, 3333 New Hyde Park Rd, New Hyde Park NY; WT: Drive as directed ; DO: Drop off client at Office, 3333 New Hyde Park Rd, New Hyde Park NY; DO: Drop car off at garage, 1401 4th Avenue, New Hyde Park ; ",Eddie Sultan,Hourly Service,214.20,214.20
+12/01/2015,06:30 AM,10:00 AM,03:30,"PU: Home, 9 Otter Trail, Westport CT; DO: 1441 Broadway, New York NY; ",John Rooney,One Way Drop Off,147.00,147.00
+12/01/2015,07:00 AM,05:00 PM,10:00,"PU: Hotel: Marmara Manhattan, 301 East 94th St, New York NY; ST: OFFICE, 5120 Broadway, New York City NY; DO: Hotel: Marmara Manhattan, 301 East 94th St, New York NY; ",Alvin Robinson,Hourly Service,300.02,300.02
+12/01/2015,07:45 AM,12:30 PM,04:45,"PU: 2316 Theall Road, Rye NY; WT: 33 West 42nd Street, New York NY; DO: 2316 Theall Road, Rye NY; ",David Santorsola,Hourly Service,199.50,199.50
+12/01/2015,08:00 AM,10:00 AM,02:00,"PU: Home, 21 Buckingham Drive, Madison NJ; ST: 140 Park Avenue, Florham Park NY; DO: Home, 21 Buckingham Drive, Madison NJ; ",Gary Wartenberg,Hourly Service,95.00,95.00
+12/01/2015,09:25 AM,11:10 PM,13:45,"PU: Home, 25 Stratford Road, Harrison NY; WT: Brooklyn as directed ; DO: Home, 25 Stratford Road, Harrison NY; ",Fabricio Beato,Daily/Weekly Driver,355.26,355.26
+12/01/2015,12:00 PM,03:00 PM,03:00,"PU: La Guardia Airport, United Airlines; DO: 114 Martin Drive, Harrington Park NJ; ",Gary Wartenberg,One Way Pick Up,87.36,87.36
+12/01/2015,12:45 PM,03:40 PM,02:55,"PU: 88 East Middle Patent Road, Bedford NY; DO: John F Kennedy International Airport; ",Jack Gessa,One Way Drop Off,126.00,126.00
+12/01/2015,01:30 PM,03:30 PM,02:00,"PU: NEST+m Science and Technology School, 111 Columbia Street, New York NY; DO: Home, 2287 Johnson Ave, Bronx NY; ",Eladio Lopez,Daily/Weekly Driver,63.99,63.99
+12/01/2015,02:00 PM,03:40 PM,01:40,"PU: LaGuardia Airport, American Airlines; DO: 106 East 19th Street, New York NY; ",Rick Hutton,Round Trip,85.68,85.68
+12/01/2015,03:00 PM,07:00 PM,04:00,"PU: Newark International Airport, Scandinavian Airlines (SAS) - SK; DO: Office, 111 East Avenue, Norwalk CT; ",Preston Goddard,One Way Pick Up,121.57,121.57
+12/01/2015,03:00 PM,09:00 PM,06:00,"PU: Home, 26 East Gate Road, Lloyd Harbor NY; WT: NYC as directed ; DO: Home, 26 East Gate Road, Lloyd Harbor NY; ",Richard Young,Hourly Service,269.28,269.28
+12/01/2015,04:30 PM,07:30 PM,03:00,"PU: New York, LaGuardia Airport, American Airlines - AA; DO: Home, 73 Harbor Drive, Stamford CT; ",Cesar Parra,Round Trip,128.52,128.52
+12/01/2015,04:45 PM,09:45 PM,05:00,"PU: HOME, 1314 Flagler Drive, Mamaroneck NY; WT: 800 West End Ave at 99th Street, New York NY; DO: HOME, 1314 Flagler Drive, Mamaroneck NY; ",Jim Pelka,Hourly Service,210.00,210.00
+12/01/2015,05:10 PM,07:35 PM,02:25,"PU: Home, 25 Stratford Road, Harrison NY; DO: Mandarin Oriental, 80 Columbus Circle, New York NY; ",Bill Nollman,One Way Drop Off,64.59,64.59
+12/01/2015,06:30 PM,10:15 PM,03:45,"PU: 3 Columbus Circle, New York NY; DO: 11 Burling Avenue, White Plains NY; ",David Santorsola,Drive-Me-Home Service,192.50,192.50
+12/01/2015,07:45 PM,10:25 PM,02:40,"PU: John F Kennedy International Airport; DO: 6 Roosevelt Ave, Greenwich CT; ",Preston Goddard,One Way Pick Up,91.37,91.37
+12/01/2015,07:45 PM,10:15 PM,02:30,"PU: New York, John F Kennedy International Airport, KLM Royal Dutch Airlines - KL; DO: Home, 415 Farms Rd, Greenwich CT; ",Steve Cid,One Way Pick Up,82.30,82.30
+12/01/2015,08:40 PM,01:00 AM,04:20,"PU: New York, John F Kennedy International Airport, Turkish Airlines - TK; DO: HOME, 38 Old Redding Road, Weston CT; ",Jeffrey Meyer,One Way Pick Up,193.00,193.00
+12/02/2015,06:00 AM,08:15 AM,02:15,"PU: Home, 34 Meeting House Rd., Greenwich CT; DO: Office, 1585 Broadway, New York NY; ",Preston Goddard,Daily/Weekly Driver,73.88,73.88
+12/02/2015,07:00 AM,05:00 PM,10:00,"PU: Hotel: Marmara Manhattan, 301 East 94th St, New York NY; ST: OFFICE, 5120 Broadway, New York City NY; DO: Hotel: Marmara Manhattan, 301 East 94th St, New York NY; ",Alvin Robinson,Hourly Service,300.02,300.02
+12/02/2015,08:00 AM,11:50 AM,03:50,"PU: OFFICE Suite 112, 131 Sunnyside Boulevard, Plainview NY; WT: 40 Fulton Street, New York NY; DO: OFFICE Suite 112, 131 Sunnyside Boulevard, Plainview NY; ",Rick Hutton,Hourly Service,171.36,171.36
+12/02/2015,09:30 AM,12:45 PM,03:15,"PU: Home, 72 Toilsome Ave, Norwalk CT; WT: 755 Campbell Ave, West Haven CT; DO: Home, 72 Toilsome Ave, Norwalk CT; ",Preston Goddard,Hourly Service,174.01,174.01
+12/02/2015,12:45 PM,05:15 PM,04:30,"PU: 1440 Port Washington Blvd, Port Washington NY; WT: Dr's appointment, 620 Columbus Avenue @ 90th St, New York NY; DO: 1440 Port Washington Blvd, Port Washington NY; ",Harvey Sanders,Hourly Service,189.00,189.00
+12/02/2015,01:30 PM,03:30 PM,02:00,"PU: NEST+m Science and Technology School, 111 Columbia Street, New York NY; DO: Home, 2287 Johnson Ave, Bronx NY; ",Eladio Lopez,Daily/Weekly Driver,63.99,63.99
+12/02/2015,03:00 PM,11:00 PM,08:00,"PU: Home, 26 East Gate Road, Lloyd Harbor NY; WT: NYC as directed ; DO: Home, 26 East Gate Road, Lloyd Harbor NY; ",Richard Young,Hourly Service,353.43,353.43
+12/02/2015,03:00 PM,06:00 PM,03:00,"PU: LaGuardia Airport, JetBlue Airways - B6; DO: Home, 7 Breezy Knoll, Westport CT; ",Cesar Parra,Round Trip,0.00,0.00
+12/02/2015,04:00 PM,07:15 PM,03:15,"PU: 16 Coley Road, Wilton CT; DO: John F Kennedy International Airport, American Airlines; ",Mark Clelford,One Way Drop Off,136.50,136.50
+12/02/2015,05:30 PM,08:40 PM,03:10,"PU: Home, 12 Gedney Way, Chappaqua NY; WT: Sound Shore Tennis, 303 Boston Post Road, Port Chester NY; DO: Home, 12 Gedney Way, Chappaqua NY; ",Steve Cid,Hourly Service,113.75,113.75
+12/02/2015,05:45 PM,08:45 PM,03:00,"PU: 66 Woodside Avenue, Westport CT; DO: John F Kennedy International Airport, Aer Lingus; ",Asif Khan,Round Trip,99.86,99.86
+12/02/2015,05:55 PM,10:15 PM,04:20,"PU: Home, 25 Stratford Road, Harrison NY; DO: Home, 25 Stratford Road, Harrison NY; ",Fabricio Beato,Hourly Service,109.81,109.81
+12/03/2015,12:00 AM,07:30 AM,07:30,"PU: Home, 870 United Nations Plaza, New York NY; WT: Drive as directed ; DO: Home, 870 United Nations Plaza, New York NY; ",Wendell Gooding,Hourly Service,285.12,285.12
+12/03/2015,05:55 AM,08:00 AM,02:05,"PU: Home, 34 Meeting House Rd., Greenwich CT; DO: Office, 1585 Broadway, New York NY; ",Preston Goddard,Daily/Weekly Driver,65.67,65.67
+12/03/2015,06:00 AM,08:00 PM,14:00,"PU: 1401 4th Avenue, New Hyde Park NY 11040; ST: Woonsocket, RIWoonsockett RI; ST: Albany, NY ; DO: 1401 4th Avenue, New Hyde Park NY 11040; ",Richard Young,Hourly Service,686.46,686.46
+12/03/2015,07:00 AM,05:00 PM,10:00,"PU: Hotel: Marmara Manhattan, 301 East 94th St, New York NY; ST: OFFICE, 5120 Broadway, New York City NY; DO: Hotel: Marmara Manhattan, 301 East 94th St, New York NY; ",Alvin Robinson,Hourly Service,300.02,300.02
+12/03/2015,07:25 AM,06:40 PM,11:15,"PU: Home, 25 Stratford Road, Harrison NY; WT: Brooklyn as directed ; DO: Home, 25 Stratford Road, Harrison NY; ",Fabricio Beato,Daily/Weekly Driver,290.67,290.67
+12/03/2015,07:30 AM,12:30 PM,05:00,"PU: Home, 337 Wagner Avenue, Mamaroneck NY; WT: Marist College, Poughkeepsie NY; DO: Home, 337 Wagner Avenue, Mamaroneck NY; ",Steve Cid,Hourly Service,214.20,214.20
+12/03/2015,09:15 AM,10:15 AM,01:00,"PU: 3691 Somerset Drive, Seaford NY; DO: John F Kennedy International Airport; ",Tim Cody,One Way Drop Off,58.01,58.01
+12/03/2015,09:30 AM,03:20 PM,05:50,"PU: HOME, 68 Terra Nova Circle, Westport CT; WT: 36th and Madison ; ST: 38th and Madison ; DO: HOME, 68 Terra Nova Circle, Westport CT; ",Preston Goddard,Hourly Service,257.04,257.04
+12/03/2015,09:40 AM,03:30 PM,05:50,"PU: 240 Riverside Blvd, New York NY; WT: As directed in NYC ; DO: 240 Riverside Blvd, New York NY; ",Rick Hutton,Hourly Service,272.00,272.00
+12/03/2015,10:30 AM,12:45 PM,02:15,"PU: 18 Wyndover Lane, Stamford CT; DO: 453 East 14th Street, New York NY; ",Mark Clelford,One Way Drop Off,74.50,74.50
+12/03/2015,11:40 AM,01:41 PM,02:01,"PU: Home, 70 Duncan Drive, Greenwich CT; DO: Midtown Manhattan, New York NY; ",Geoffrey Keller,One Way Drop Off,60.90,60.90
+12/03/2015,12:00 PM,11:00 PM,11:00,"PU: HOME, 36 Old Academy Road, Fairfield CT; WT: Drive as Directed, White Plains NY; DO: HOME, 36 Old Academy Road, Fairfield CT; ",Jim Pelka,Hourly Service,462.00,462.00
+12/03/2015,12:30 PM,03:30 PM,03:00,"PU: 20 Greenbriar Rd, Westport CT; DO: John F Kennedy International Airport; ",Cesar Parra,Round Trip,126.00,126.00
+12/03/2015,01:30 PM,03:30 PM,02:00,"PU: NEST+m Science and Technology School, 111 Columbia Street, New York NY; DO: Home, 2287 Johnson Ave, Bronx NY; ",Eladio Lopez,Daily/Weekly Driver,63.99,63.99
+12/03/2015,02:55 PM,06:00 PM,03:05,"PU: 27 Cross Highway, Westport CT; DO: New York, John F Kennedy International Airport; ",Bill Nollman,Round Trip,94.25,94.25
+12/03/2015,06:10 PM,12:10 AM,06:00,"PU: Home, 11 Annett Way, Jericho NY; WT: The Capitol Theatre, 149 Westchester Ave, Port Chester NY; DO: Home, 11 Annett Way, Jericho NY; ",Jack Gessa,Hourly Service,272.00,272.00
+12/03/2015,07:30 PM,09:55 PM,02:25,"PU: John F. Kennedy International Airport, American Airlines; DO: 8 Hendrie Drive, Old Greenwich CT; ",Bill Nollman,One Way Pick Up,92.40,92.40
+12/03/2015,08:30 PM,09:30 PM,01:00,"PU: Icon Parking, 304 E 53rd St, New York NY; PU: 885 3rd Ave, New York NY 10022; DO: 11 Burling Avenue, White Plains NY; ",Alvin Robinson,Drive-Me-Home Service,123.25,123.25
+12/04/2015,06:00 AM,08:00 AM,02:00,"PU: Home, 34 Meeting House Rd., Greenwich CT; DO: Office, 1585 Broadway, New York NY; ",Preston Goddard,Daily/Weekly Driver,65.67,65.67
+12/04/2015,06:45 AM,08:45 AM,02:00,"PU: 4 Brookside Park, Greenwich CT; DO: New York, John F Kennedy International Airport; ",Geoffrey Keller,One Way Drop Off,85.68,85.68
+12/04/2015,07:00 AM,05:00 PM,10:00,"PU: Hotel: Marmara Manhattan, 301 East 94th St, New York NY; ST: OFFICE, 5120 Broadway, New York City NY; DO: Hotel: Marmara Manhattan, 301 East 94th St, New York NY; DO: Hotel: Marmara Manhattan, 301 East 94th St, New York NY; ",Alvin Robinson,Hourly Service,300.02,300.02
+12/04/2015,07:45 AM,09:45 AM,02:00,"PU: 63 Palmer Hill Road, Stamford CT; DO: 155 Liberty Ave, Queens NY; ",John Rooney,One Way Drop Off,93.19,93.19
+12/04/2015,08:30 AM,11:15 AM,02:45,"PU: Home, 208 Bayberry lane, Westport CT; DO: La Guardia Airport; ",Mark Clelford,Round Trip,0.00,0.00
+12/04/2015,09:00 AM,03:00 PM,06:00,"PU: HOME, 45 Blue Mill Road, Morristown NJ; ST: Foreman School, 12 Norfolk Rd, Litchfield CT; DO: HOME, 45 Blue Mill Road, Morristown NJ; ",Gary Wartenberg,Hourly Service,252.00,252.00
+12/04/2015,10:15 AM,N/A,01:59,"PU: Newark Liberty International Airport, United Airlines; DO: 58 Smith Avenue, White Plains NY; ",Jack Gessa,Round Trip,88.62,88.62
+12/04/2015,01:30 PM,03:30 PM,02:00,"PU: NEST+m Science and Technology School, 111 Columbia Street, New York NY; DO: Home, 2287 Johnson Ave, Bronx NY; ",Eladio Lopez,Daily/Weekly Driver,63.99,63.99
+12/04/2015,01:55 PM,01:20 AM,11:25,"PU: Home, 25 Stratford Road, Harrison NY; DO: Home, 25 Stratford Road, Harrison NY; ",Fabricio Beato,Hourly Service,287.47,287.47
+12/04/2015,03:30 PM,12:30 AM,09:00,"PU: Home, 26 East Gate Road, Lloyd Harbor NY; WT: NYC as directed ; DO: Home, 26 East Gate Road, Lloyd Harbor NY; ",Richard Young,Hourly Service,385.56,385.56
+12/04/2015,04:15 PM,08:15 PM,04:00,"PU: Home - 5 Mirabelle Ct, Mount Sinai NY; DO: New York, John F Kennedy International Airport; ",Gary Sanford,Round Trip,148.00,148.00
+12/04/2015,05:00 PM,08:15 PM,03:15,"PU: La Guardia Airport, American Airlines; ST: TBDStamford ; DO: 20 Greenbriar Rd, Westport CT; ",Cesar Parra,Round Trip,136.50,136.50
+12/04/2015,05:00 PM,11:15 PM,06:15,"PU: Home, 16 Crane Road, Lloyd Harbour NY; WT: Barclays ArenaBrooklyn NY; DO: Home, 16 Crane Road, Lloyd Harbour NY; ",Eddie Sultan,Hourly Service,262.50,262.50
+12/04/2015,05:20 PM,11:55 PM,06:35,"PU: Home, 51 Old Mill Road, Fairfield CT; WT: IL Bastardo Restaurant, 191 7th Ave - between 21st & 22nd, New York NY; DO: Home, 51 Old Mill Road, Fairfield CT; ",Ivan Delabrena,One Way Pick Up,283.50,283.50
+12/04/2015,05:25 PM,07:30 PM,02:05,"PU: 34 Ridgewood Terrace, Chappaqua NY; DO: LaGuardia Airport; ",Steve Cid,Round Trip,72.12,72.12
+12/04/2015,05:45 PM,10:30 PM,04:45,"PU: 30 Helena Avenue, Larchmont NY; WT: Lincoln Center Plaza, New York NY; DO: 30 Helena Avenue, Larchmont NY; ",Bill Nollman,Hourly Service,188.49,188.49
+12/04/2015,06:00 PM,09:45 PM,03:45,"PU: Pick up son, 12 Miles Road, Darien CT; DO: Home, 7 Plateau Circle West, Bronxville NY; ",Jim Pelka,One Way Pick Up,157.50,157.50
+12/04/2015,07:10 PM,01:14 AM,06:04,"PU: Home, 63 High Ridge Avenue, Ridgefield CT; ST: Parking Lot , 207 Main Street, Ridgefield CT; DO: Home, 63 High Ridge Avenue, Ridgefield CT; ",Edward Goldstein,Hourly Service,267.75,267.75
+12/04/2015,07:30 PM,12:35 AM,05:05,"PU: 6 Bond St., New York NY; WT: 125 Court Street, Brooklyn NY; DO: 20 Beechwood Blvd, Rye Brook NY; ",Rick Hutton,Hourly Service,189.91,189.91
+12/05/2015,12:30 AM,03:30 AM,03:00,"PU: 3 Duke Street, Farmingville NY; DO: 3 Duke Street, Farmingville NY; ",Gary Sanford,Hourly Service,126.00,126.00
+12/05/2015,12:30 AM,03:30 AM,03:00,"PU: 3 Duke Street, Farmingville NY; DO: 3 Duke Street, Farmingville NY; ",Matthew Dodds,Hourly Service,126.00,126.00
+12/05/2015,05:15 AM,07:15 AM,02:00,"PU: Home, 26 White Birch Road, Weston CT; DO: LaGuardia Airport; ",Preston Goddard,Round Trip,89.51,89.51
+12/05/2015,08:15 AM,10:15 AM,02:00,"PU: Home, 22 Round Hill Club Road, Greenwich CT; DO: New York, John F Kennedy International Airport; ",Jim Pelka,One Way Drop Off,87.50,87.50
+12/05/2015,08:25 AM,N/A,01:00,"PU: 17 Oak Spring Road, West Nyack NY; DO: LaGuardia Airport, JetBlue Airways - B6; ",Steve Cid,One Way Drop Off,0.00,0.00
+12/05/2015,08:50 AM,11:15 AM,02:25,"PU: HOME, 11 Hawkins Avenue, Norwalk CT; DO: John F Kennedy International Airport, Jet Blue; ",Cesar Parra,Round Trip,105.00,105.00
+12/05/2015,12:30 PM,08:15 PM,07:45,"PU: New Home, 13 Edge Hill Drive, Darien CT; WT: As directedNew York NY; DO: New Home, 13 Edge Hill Drive, Darien CT; ",Preston Goddard,Hourly Service,325.50,325.50
+12/05/2015,01:00 PM,09:00 PM,08:00,"PU: Home, 26 East Gate Road, Lloyd Harbor NY; WT: As Directed ; DO: Home, 26 East Gate Road, Lloyd Harbor NY; ",Richard Young,Hourly Service,395.76,395.76
+12/05/2015,04:00 PM,09:40 PM,05:40,"PU: Home, 11 Annett Way, Jericho NY; WT: As DirectedQueens NY; ST: Home, 11 Annett Way, Jericho NY; ST: As DirectedQueens NY; DO: Home, 11 Annett Way, Jericho NY; ",Rick Hutton,Hourly Service,241.50,241.50
+12/05/2015,04:45 PM,02:15 AM,09:30,"PU: 299 Barger St, Putnam Valley NY; WT: 60 Wildwood avenue West Orange 07052 ; DO: 299 Barger Street, Putnam Valley NY; ",Daron Jones,Hourly Service,399.00,399.00
+12/05/2015,05:00 PM,09:15 PM,04:15,"PU: Restaurant, 5 West 21st Street, New York NY; DO: Home, 25 Rossimur Court, Wilton CT; ",Cesar Parra,One Way Pick Up,178.50,178.50
+12/05/2015,05:25 PM,09:00 PM,03:35,"PU: Home, 12 Gedney Way, Chappaqua NY; ST: Chelsea Piers, 1 Blachley Road, Stamford CT; ST: 73 Maltbie Avenue, Stamford CT; ST: Chelsea Piers, 1 Blachley Road, Stamford CT; ST: 73 Maltbie Avenue, Stamford CT; DO: Home, 12 Gedney Way, Chappaqua NY; ",Steve Cid,Hourly Service,122.50,122.50
+12/05/2015,05:30 PM,N/A,00:59,"PU: 137 Harvard Avenue, Metuchen NJ; DO: JFK - New York, NY [John F. Kennedy International Airport] USA; ",N/A,One Way Drop Off,0.00,0.00
+12/05/2015,06:00 PM,01:00 AM,07:00,"PU: Home, 20 Tiber Road, Syosset NY; WT: As DirectedNew York NY; DO: Home, 20 Tiber Road, Syosset NY; ",Gary Wartenberg,Hourly Service,325.00,325.00
+12/05/2015,07:25 PM,12:30 AM,05:05,"PU: Home, 2 Bridal Lane, Port Washington NY; WT: 18 Woodbine Ave, Northport NY; DO: Home, 2 Bridal Lane, Port Washington NY; ",Philip Rosenberg,Hourly Service,154.51,154.51
+12/05/2015,07:30 PM,12:30 AM,05:00,"PU: Home, 2 Bridal Lane, Port Washington NY; WT: 18 Woodbine Ave, Northport NY; DO: Home, 2 Bridal Lane, Port Washington NY; ",Matthew Dodds,Hourly Service,179.20,179.20
+12/05/2015,08:30 PM,02:00 AM,05:30,"PU: Venetian Yacht Club, 494 Fire Island Ave, Babylon NY; DO: 20 Aspen Lane, Stamford CT; ",David Santorsola,Drive-Me-Home Service,292.00,292.00
+12/05/2015,08:30 PM,10:30 PM,02:00,"PU: New York, LaGuardia Airport, American Airlines - AA; DO: 13 Millbrook Ave, Tarrytown NY; ",Jim Pelka,Round Trip,78.56,78.56
+12/05/2015,09:30 PM,10:45 PM,01:15,"PU: Newark International Airport, United Airlines - UA; DO: 72 W Passaic Ave, Bloomfield NJ; ",Alvin Robinson,Round Trip,79.00,79.00
+12/05/2015,11:45 PM,02:15 AM,02:30,"PU: New York, John F Kennedy International Airport, JetBlue Airways - B6; DO: Home, 9 Otter Trail, Westport CT; ",John Rooney,One Way Pick Up,105.00,105.00
+12/06/2015,05:15 AM,07:45 AM,02:30,"PU: HOME: 14 Silver Brook Road, Westport CT; ST: New York, John F Kennedy International Airport; DO: LaGuardia Airport; ",Randy Shapiro,Round Trip,100.00,100.00
+12/06/2015,09:15 AM,11:15 AM,02:00,"PU: Trump Soho Hotel, 246 Spring St, New York NY; DO: Home, 25 Stratford Road, Harrison NY; ",Preston Goddard,One Way Drop Off,51.67,51.67
+12/06/2015,10:25 AM,12:40 PM,02:15,"PU: Home, 515 Old Post Road, Fairfield CT; ST: Pick up passenger, 77 Willard Terace, Stamford CT; DO: New York, John F Kennedy International Airport, JetBlue Airways - B6; ",Bill Nollman,One Way Drop Off,96.39,96.39
+12/06/2015,11:00 AM,09:45 PM,10:45,"PU: Home, 16 Huntinghill Road, Woodbridge CT; WT: Gillette Stadium, Foxboro MA; DO: Home, 16 Huntinghill Road, Woodbridge CT; ",Tom Belviso (TR),Hourly Service,460.53,460.53
+12/06/2015,01:00 PM,09:00 PM,08:00,"PU: Home, 26 East Gate Road, Lloyd Harbor NY; WT: As Directed ; DO: Home, 26 East Gate Road, Lloyd Harbor NY; ",Richard Young,Hourly Service,353.43,353.43
+12/06/2015,01:00 PM,04:15 PM,03:15,"PU: John F Kennedy International Airport, Jet Blue; DO: HOME, 11 Hawkins Avenue, Norwalk CT; ",Cesar Parra,Round Trip,146.50,146.50
+12/06/2015,05:45 PM,09:15 PM,03:30,"PU: New York, John F Kennedy International Airport, Delta Air Lines - DL; DO: 11 Tobacco Rd Weston Ct ; ",John Rooney,One Way Pick Up,134.69,134.69
+12/06/2015,11:00 PM,01:25 AM,02:25,"PU: New York, John F Kennedy International Airport, Delta Air Lines; DO: Home, 4 Brookside Park, Greenwich CT; ",Bill Nollman,One Way Pick Up,105.00,105.00
+12/07/2015,05:00 AM,07:00 AM,02:00,"PU: 11 Redmont Road, Stamford CT; DO: LaGuardia Airport, Southwest Airlines - WN; ",Jim Pelka,Round Trip,85.68,85.68
+12/07/2015,05:45 AM,09:15 AM,03:30,"PU: Home, 77 Overlook Drive, New Canaan CT; DO: Newark International Airport; ",John Rooney,Round Trip,147.00,147.00
+12/07/2015,06:15 AM,03:00 PM,08:45,"PU: Home, 36 Bishop Road, Bedford NY; WT: Drive as Directed NYC ; DO: Home, 36 Bishop Road, Bedford NY; ",Preston Goddard,Hourly Service,374.85,374.85
+12/07/2015,06:25 AM,03:35 PM,09:10,"PU: JVN Systems Office, 100 East Jefryn Blvd, Deer Park NY; DO: JVN Systems Office, 100 East Jefryn Blvd, Deer Park NY; ",Rick Hutton,Hourly Service,321.87,321.87
+12/07/2015,07:00 AM,05:00 PM,10:00,"PU: Hotel: Marmara Manhattan, 301 East 94th St, New York NY; ST: OFFICE, 5120 Broadway, New York City NY; DO: Hotel: Marmara Manhattan, 301 East 94th St, New York NY; ",Alvin Robinson,Hourly Service,300.02,300.02
+12/07/2015,07:45 AM,05:15 PM,09:30,"PU: 130 West 19th Street, New York NY; ST: Office, 1290 Avenue of Americas - 51st & 52nd 3rd Avenue & East 58th Street, New York NY; WT: As directedNew York NY; DO: 130 West 19th Street, New York NY; ",Daron Jones,Hourly Service,406.98,406.98
+12/07/2015,10:30 AM,01:00 PM,02:30,"PU: Westchester/White Plains, Delta Air Lines; DO: 185 Mine Hill Road, Fairfield CT; ",Cesar Parra,One Way Pick Up,105.00,105.00
+12/07/2015,11:00 AM,09:00 PM,10:00,"PU: Home, 26 East Gate Road, Lloyd Harbor NY; WT: As Directed ; DO: Home, 26 East Gate Road, Lloyd Harbor NY; ",Richard Young,Hourly Service,493.68,493.68
+12/07/2015,01:30 PM,03:30 PM,02:00,"PU: NEST+m Science and Technology School, 111 Columbia Street, New York NY; DO: Home, 2287 Johnson Ave, Bronx NY; ",Eladio Lopez,Daily/Weekly Driver,63.99,63.99
+12/07/2015,02:55 PM,05:14 PM,02:19,"PU: 1741 Boston Post Road, Darien CT; DO: New York, John F Kennedy International Airport; ",Edward Goldstein,One Way Drop Off,79.09,79.09
+12/07/2015,06:00 PM,08:30 PM,02:30,"PU: New York, LaGuardia Airport, Southwest Airlines - WN; DO: 11 Redmont Road, Stamford CT; ",Jim Pelka,Round Trip,107.10,107.10
+12/07/2015,07:40 PM,10:30 PM,02:50,"PU: LaGuardia Airport, American Airlines; DO: 34 Ridgewood Terrace, Chappaqua NY; ",Steve Cid,Round Trip,82.12,82.12
+12/08/2015,05:30 AM,08:30 AM,03:00,"PU: 235 Primrose Lane, Fairfield CT; DO: LaGuardia Airport; ",Cesar Parra,Round Trip,126.00,126.00
+12/08/2015,06:00 AM,08:00 AM,02:00,"PU: Home, 34 Meeting House Rd., Greenwich CT; DO: Home, 34 Meeting House Rd., Greenwich CT; ",Preston Goddard,Daily/Weekly Driver,65.67,65.67
+12/08/2015,07:00 AM,05:00 PM,10:00,"PU: Hotel: Marmara Manhattan, 301 East 94th St, New York NY; ST: OFFICE, 5120 Broadway, New York City NY; DO: Hotel: Marmara Manhattan, 301 East 94th St, New York NY; ",Alvin Robinson,Hourly Service,300.02,300.02
+12/08/2015,08:00 AM,02:15 PM,06:15,"PU: JVN Systems Office, 100 East Jefryn Blvd, Deer Park NY; DO: JVN Systems Office, 100 East Jefryn Blvd, Deer Park NY; ",Rick Hutton,Hourly Service,217.48,217.48
+12/08/2015,10:30 AM,01:00 PM,02:30,"PU: Home, 21 Buckingham Drive, Madison NJ; ST: Summit Medical Group, 1 Diamond Hill Road, Berkeley Heights NJ; DO: Home, 21 Buckingham Drive, Madison NJ; ",Gary Wartenberg,Hourly Service,116.00,116.00
+12/08/2015,11:00 AM,04:30 PM,05:30,"PU: P/up car from garage, 1401 4th Avenue, New Hyde Park ; ST: P/up client from Office, 3333 New Hyde Park Rd, New Hyde Park NY; WT: As directed in Brooklyn, NY ; ST: Drop off client at Office, 3333 New Hyde Park Rd, New Hyde Park NY; DO: 1401 4th Avenue, New Hyde Park NY 11040; ",Frandy Perez,Hourly Service,235.62,235.62
+12/08/2015,11:15 AM,08:05 PM,08:50,"PU: 592 Jones Road, Engelwood NJ; WT: Barneys NYC ; DO: 592 Jones Road, Engelwood NJ; ",Jack Gessa,Hourly Service,377.50,377.50
+12/08/2015,12:15 PM,05:45 PM,05:30,"PU: Home, 870 United Nations Plaza, New York NY; DO: Home, 870 United Nations Plaza, New York NY; ",Wendell Gooding,Hourly Service,213.44,213.44
+12/08/2015,12:30 PM,05:30 PM,05:00,"PU: Home, 26 East Gate Road, Lloyd Harbor NY; WT: NYC as directed ; DO: Home, 26 East Gate Road, Lloyd Harbor NY; ",Richard Young,Hourly Service,249.90,249.90
+12/08/2015,01:30 PM,03:30 PM,02:00,"PU: NEST+m Science and Technology School, 111 Columbia Street, New York NY; DO: Home, 2287 Johnson Ave, Bronx NY; ",Eladio Lopez,Daily/Weekly Driver,63.99,63.99
+12/08/2015,01:30 PM,12:00 AM,10:30,"PU: Office, 55 Station St, Southport CT; ST: The Standard Hotel, 13th St and 848 Washington St, New York NY; WT: Restaurant: Bar Masa, 10 Columbus Cir, New York, New York NY; WT: 7PM appointment As directed, 7PM appointment As directed ; ST: P/up Mr Charney - Town Hall of New Castle, 200 South Greely Ave, Chappaqua NY; DO: 55 Station St, Southport CT; ",Jim Pelka,Hourly Service,449.82,449.82
+12/08/2015,05:00 PM,09:10 PM,04:10,"PU: 1314 Flagler Drive, Mamaroneck NY; WT: 800 West End Ave at 99th Street, New York NY; DO: HOME, 1314 Flagler Drive, Mamaroneck NY; ",Preston Goddard,Hourly Service,178.50,178.50
+12/08/2015,05:00 PM,11:30 PM,06:30,"PU: Home, 22 Round Hill Club Road, Greenwich CT; WT: Downtown NYC as directed ; DO: Home, 22 Round Hill Club Road, Greenwich CT; ",Asif Khan,Hourly Service,284.38,284.38
+12/08/2015,06:00 PM,10:30 PM,04:30,"PU: Home 13 Turret Lane, Woodbury NY; WT: Jewish Museum 1109 5th Ave, New York NY; DO: Home 13 Turret Lane, Woodbury NY; ",Matthew Dodds,Hourly Service,189.00,189.00
+12/08/2015,07:15 PM,09:15 PM,02:00,"PU: Westchester/White Plains, JetBlue Airways; DO: Home, 26 White Birch Road, Weston CT; ",John Rooney,Round Trip,85.68,85.68
+12/09/2015,04:30 AM,06:05 AM,01:35,"PU: 9 Otter Trail, Westport CT; DO: La Guardia Airport, Delta Air Lines; ",Mark Clelford,Round Trip,84.00,84.00
+12/09/2015,06:00 AM,08:00 AM,02:00,"PU: Home, 34 Meeting House Rd., Greenwich CT; DO: Home, 34 Meeting House Rd., Greenwich CT; ",Preston Goddard,Daily/Weekly Driver,65.67,65.67
+12/09/2015,06:30 AM,04:00 PM,09:30,"PU: P/up car from garage, 1401 4th Avenue, New Hyde Park ; ST: Home, 403 Littleworth Lane, Sea Cliff NY; WT: Franklin square as directed ; WT: Huntington as directed ; WT: Islip as directed ; DO: Home, 403 Littleworth Lane, Sea Cliff NY; DO: P/up car from garage, 1401 4th Avenue, New Hyde Park ; ",Frandy Perez,Hourly Service,406.98,406.98
+12/09/2015,07:00 AM,02:00 PM,07:00,"PU: Hotel: Marmara Manhattan, 301 East 94th St, New York NY; ST: OFFICE, 5120 Broadway, New York City NY; DO: Hotel: Marmara Manhattan, 301 East 94th St, New York NY; ",Alvin Robinson,Hourly Service,210.01,210.01
+12/09/2015,10:00 AM,05:30 PM,07:30,"PU: Champion Parking - 101 E 16th St, NY.  Slot 111 (btwn Park & Irving)., 101 E 16th St, New York NY; ST: Home, 13 Gramercy Park South, New York NY; WT: Meeting, Buffington NJ; DO: Home, 13 Gramercy Park South, New York NY; ",Daron Jones,Hourly Service,321.30,321.30
+12/09/2015,10:30 AM,04:45 PM,06:15,"PU: Home, 870 United Nations Plaza, New York NY; DO: Home, 870 United Nations Plaza, New York NY; ",Wendell Gooding,Hourly Service,240.32,240.32
+12/09/2015,12:30 PM,04:15 PM,03:45,"PU: Home, 2 Budd Circle, Shelton CT; DO: New York, John F Kennedy International Airport; ",Asif Khan,Round Trip,157.50,157.50
+12/09/2015,01:00 PM,03:10 PM,02:10,"PU: Hackley School, 293 Benedict Avenue, Tarrytown NY; ST: Renaissance Marriott Hotel, 80 West Red Oak Lane, West Harrison NY; DO: Home, 60 Club Road, Riverside CT; ",Jack Gessa,One Way Pick Up,94.50,94.50
+12/09/2015,01:30 PM,03:30 PM,02:00,"PU: NEST+m Science and Technology School, 111 Columbia Street, New York NY; DO: Home, 2287 Johnson Ave, Bronx NY; ",Eladio Lopez,Daily/Weekly Driver,63.99,63.99
+12/09/2015,02:25 PM,05:45 PM,03:20,"PU: 163 old church rd, Greenwich CT; DO: John F Kennedy International Airport; ",Steve Cid,One Way Drop Off,84.11,84.11
+12/09/2015,02:30 PM,06:15 PM,03:45,"PU: p/u Sascha, 53rd Street & 3rd Ave, New York NY; DO: New York, John F Kennedy International Airport; ",Rick Hutton,Drive-Me-Home Service,157.50,157.50
+12/09/2015,04:00 PM,12:10 AM,08:10,"PU: 211 Union Avenue, Harrison NY; ST: Drive as Directed ; DO: 211 Union Avenue, Harrison NY; ",Preston Goddard,Hourly Service,353.43,353.43
+12/09/2015,04:00 PM,10:45 PM,06:45,"PU: Home, 22 Round Hill Club Road, Greenwich CT; WT: Downtown NYC as directed ; DO: Home, 22 Round Hill Club Road, Greenwich CT; ",Jim Pelka,Hourly Service,295.31,295.31
+12/09/2015,05:25 PM,08:30 PM,03:05,"PU: Home, 12 Gedney Way, Chappaqua NY; WT: Sound Shore Tennis, 303 Boston Post Road, Port Chester NY; DO: Home, 12 Gedney Way, Chappaqua NY; ",Edward Goldstein,Hourly Service,105.00,105.00
+12/09/2015,08:15 PM,10:30 PM,02:15,"PU: New York, John F Kennedy International Airport, KLM Royal Dutch Airlines - KL; DO: Home - 5 Mirabelle Ct, Mount Sinai NY; ",Frandy Perez,Round Trip,74.50,74.50
+12/09/2015,09:10 PM,10:25 PM,01:15,"PU: Westchester/White Plains, JetBlue Airways; DO: Home, 92 Dolphin Cove Quay, Stamford CT; ",Mark Clelford,One Way Pick Up,84.00,84.00
+12/09/2015,09:30 PM,11:55 PM,02:25,"PU: Westchester/White Plains, Delta Air Lines; DO: 235 Primrose Lane, Fairfield CT; ",Cesar Parra,Round Trip,107.10,107.10
+12/10/2015,03:30 AM,05:45 AM,02:15,"PU: 49 Louvain Street, Fairfield CT; DO: LaGuardia Airport, Southwest Airlines - WN; ",Asif Khan,Round Trip,91.39,91.39
+12/10/2015,06:00 AM,08:00 AM,02:00,"PU: Home, 34 Meeting House Rd., Greenwich CT; DO: Home, 34 Meeting House Rd., Greenwich CT; ",Preston Goddard,Daily/Weekly Driver,65.67,65.67
+12/10/2015,06:24 AM,N/A,01:00,"PU: New York, John F Kennedy International Airport, Delta Air Lines - DL; DO: Home, 9 Susan Lane, Riverside CT; ",Jim Pelka,One Way Pick Up,0.00,0.00
+12/10/2015,07:00 AM,09:00 AM,02:00,"PU: Home, 46 5th Street, Norwalk CT; DO: New York, LaGuardia Airport; ",John Rooney,Round Trip,84.00,84.00
+12/10/2015,07:30 AM,12:30 PM,05:00,"PU: Home, 275 Hobart Avenue, Short Hills NJ; WT: NYC as directed ; DO: Home, 275 Hobart Avenue, Short Hills NJ; ",Gary Wartenberg,Hourly Service,266.22,266.22
+12/10/2015,07:30 AM,11:30 AM,04:00,"PU: HOME, 77 Reade St, New York NY; WT: As directed ; DO: HOME, 77 Reade St, New York NY; ",Eladio Lopez,Hourly Service,174.93,174.93
+12/10/2015,08:55 AM,12:00 PM,03:05,"PU: 320 Lake Avenue, Bridgeport CT; DO: New York, LaGuardia Airport; ",Geoffrey Keller,One Way Drop Off,103.03,103.03
+12/10/2015,10:00 AM,11:00 AM,01:00,"PU: Hotel: Marmara Manhattan, 301 East 94th St, New York NY; ST: OFFICE, 5120 Broadway, New York City NY; DO: Hotel: Marmara Manhattan, 301 East 94th St, New York NY; ",Alvin Robinson,Hourly Service,420.00,420.00
+12/10/2015,10:05 AM,11:05 AM,01:00,"PU: 43 Hook Lane, Levittown NY; DO: New York, John F Kennedy International Airport; ",Tim Cody,One Way Drop Off,49.01,49.01
+12/10/2015,10:25 AM,05:20 PM,06:55,"PU: Home, 20 Whitney Lane, Old Westbury NY; WT: Drive as Directed, NYC ; DO: Home, 20 Whitney Lane, Old Westbury NY; ",Wendell Gooding,Hourly Service,310.08,310.08
+12/10/2015,10:25 AM,01:33 PM,03:08,"PU: 2407 Hunter Brook Road, Yorktown Heights NY; DO: John F Kennedy International Airport, Air India; ",Edward Goldstein,Round Trip,136.50,136.50
+12/10/2015,12:00 PM,02:45 PM,02:45,"PU: John F Kennedy International Airport, Aer Lingus; DO: 66 Woodside Avenue, Westport CT; ",Asif Khan,Round Trip,101.44,101.44
+12/10/2015,04:00 PM,06:00 PM,02:00,"PU: HOME, 77 Reade St, New York NY; WT: As directed ; DO: HOME, 77 Reade St, New York NY; ",Eladio Lopez,Daily/Weekly Driver,85.68,85.68
+12/10/2015,04:45 PM,12:15 AM,07:30,"PU: Home, 234 Brookside Road, Darien CT; PU: Pick up another passenger as directed ; WT: Plaza hotel 768 5th AveNew York NY; DO: Home, 234 Brookside Road, Darien CT; ",John Rooney,Hourly Service,315.00,315.00
+12/10/2015,05:55 PM,12:25 AM,06:30,"PU: Home, 55 Branch Brook Drive, Smithtown NY; WT: The Arden Kitchen and Bar201 Main Street NY; DO: Home, 55 Branch Brook Drive, Smithtown NY; ",Tim Cody,Hourly Service,273.00,273.00
+12/10/2015,06:30 PM,09:30 PM,03:00,"PU: New York, John F Kennedy International Airport, JetBlue Airways; DO: Home, 515 Old Post Road, Fairfield CT; ",Cesar Parra,One Way Pick Up,128.52,128.52
+12/10/2015,06:35 PM,12:30 AM,05:55,"PU: 112 Cedar Ave, Patchogue NY; PU: 2nd pickup as directed ; WT: The Arden Kitchen and Bar201 Main Street NY; DO: 112 Cedar Ave, Patchogue NY; ",Wendell Gooding,Hourly Service,282.54,282.54
+12/10/2015,06:40 PM,12:15 AM,05:35,"PU: Home, 25 Stratford Road, Harrison NY; WT: As directed ; DO: Home, 25 Stratford Road, Harrison NY; ",Fabricio Beato,Daily/Weekly Driver,143.73,143.73
+12/11/2015,05:30 AM,08:00 AM,02:30,"PU: 2043 Congress Street, Fairfield CT; DO: New York, John F Kennedy International Airport; ",Tom Belviso (TR),One Way Drop Off,101.96,101.96
+12/11/2015,07:25 AM,09:25 AM,02:00,"PU: Home, 7 Plateau Circle West, Bronxville NY; WT: fordham universityBronx NY; DO: Home, 7 Plateau Circle West, Bronxville NY; ",David Santorsola,Hourly Service,84.00,84.00
+12/11/2015,07:30 AM,04:30 PM,09:00,"PU: HOME, 77 Reade St, New York NY; WT: As directed ; DO: HOME, 77 Reade St, New York NY; ",Eladio Lopez,Hourly Service,385.56,385.56
+12/11/2015,08:00 AM,10:00 AM,02:00,"PU: Home, 26 East Gate Road, Lloyd Harbor NY; DO: Republic Airport; ",Richard Young,One Way Drop Off,84.00,84.00
+12/11/2015,08:30 AM,11:15 AM,02:45,"PU: LaGuardia Airport, Delta Air Lines - DL; DO: Home, 9 Otter Trail, Westport CT; ",Mark Clelford,One Way Pick Up,132.75,132.75
+12/11/2015,08:55 AM,04:40 PM,07:45,"PU: Home, 25 Stratford Road, Harrison NY; DO: Home, 25 Stratford Road, Harrison NY; ",Fabricio Beato,Hourly Service,200.24,200.24
+12/11/2015,09:00 AM,03:15 PM,06:15,"PU: 1401 4th Avenue, New Hyde Park NY 11040; ST:  ; DO: 1401 4th Avenue, New Hyde Park NY 11040; ",Frandy Perez,Hourly Service,267.75,267.75
+12/11/2015,09:00 AM,03:00 PM,06:00,"PU: HOME, 45 Blue Mill Road, Morristown NJ; ST: Foreman School, 12 Norfolk Rd, Litchfield CT; DO: HOME, 45 Blue Mill Road, Morristown NJ; ",Gary Wartenberg,Hourly Service,232.00,232.00
+12/11/2015,09:25 AM,11:15 AM,01:50,"PU: 106 East 19th Street, New York NY; DO: New York, LaGuardia Airport; ",Rick Hutton,Round Trip,49.03,49.03
+12/11/2015,12:15 PM,03:15 PM,03:00,"PU: Home, 60 Club Road, Riverside CT; ST: Port Chester Train Station, 44 Westchester Ave, Port Chester NY; ST: Clay Art Center, 40 Beech St #C, Port Chester NY; PU: Hackley Middle School, 293 Benedict Avenue, Tarrytown NY; DO: Home, 60 Club Road, Riverside CT; ",Preston Goddard,Hourly Service,126.00,126.00
+12/11/2015,04:10 PM,12:20 AM,08:10,"PU: 225 Shore Rd, Greenwich CT; WT: Scarlatto Restaurant, 250 W 47th St, New York ; WT: MSGNew York NY; DO: 225 Shore Road, Greenwich CT; ",Bill Nollman,Hourly Service,353.43,353.43
+12/11/2015,04:55 PM,01:05 AM,08:10,"PU: 60 Brite Ave, Scarsdale NY; WT: 18 W 18th St, New York NY; DO: 60 Brite Ave, Scarsdale NY; ",Daron Jones,Hourly Service,338.43,338.43
+12/11/2015,05:00 PM,12:00 AM,07:00,"PU: Home, 74 Cutler Road, Greenwich CT; WT: Dinner in Little Italy, Mott St & Lamb Ave, New York NY; DO: Home, 74 Cutler Road, Greenwich CT; ",Steve Cid,Hourly Service,294.00,294.00
+12/11/2015,05:15 PM,07:20 PM,02:05,"PU: NYAPT, 418 E 59th St, New York NY; DO: New York, John F Kennedy International Airport; ",Rick Hutton,Drive-Me-Home Service,84.00,84.00
+12/11/2015,07:25 PM,12:25 AM,05:00,"PU: Home, 19 Elmwood Ave, Rye NY; PU: 10 Indian Chase Drive, Greenwich CT; WT: 26 berdale drive, Westport CT; DO: 10 Indian Chase Drive, Greenwich CT; DO: Home, 19 Elmwood Ave, Rye NY; ",David Santorsola,Hourly Service,210.00,210.00
+12/11/2015,08:15 PM,11:15 PM,03:00,"PU: 268 Succabone Rd, NY United States; WT: Inn at Pound Ridge, 258 Westchester Ave, Pound Ridge NY; DO: 268 Succabone Rd, Bedford Corners NY; ",Jim Pelka,Hourly Service,128.52,128.52
+12/12/2015,06:00 AM,07:45 AM,01:45,"PU: 27 Miles Road, Darien CT; DO: New York, John F Kennedy International Airport, Delta Air Lines; ",Cesar Parra,Round Trip,84.08,84.08
+12/12/2015,02:00 PM,05:00 PM,03:00,"PU: 23 Old Huckleberry Road, Wilton CT; DO: Newark International Airport, United Airlines - UA; ",John Rooney,Round Trip,153.38,153.38
+12/12/2015,03:30 PM,12:45 AM,09:15,"PU: 24 Lords Highway, Weston CT; WT: NYC as directed  ; DO: 24 Lords Highway, Weston CT; ",Tom Belviso (TR),Hourly Service,396.27,396.27
+12/12/2015,05:15 PM,12:45 AM,07:30,"PU: Home, 14 Rivers Edge Drive, Tarrytown NY; WT: 4 Traveller way, Scotch Plains NJ; DO: Home, 14 Rivers Edge Drive, Tarrytown NY; ",Jim Pelka,Hourly Service,295.00,295.00
+12/12/2015,06:15 PM,12:45 AM,06:30,"PU: Home, 19 Brace Terrace, Dobbs Ferry NY; WT: Swan Club, 90 Glenwood Road, Roslyn NY; DO: Home, 19 Brace Terrace, Dobbs Ferry NY; ",Steve Cid,Hourly Service,278.46,278.46
+12/12/2015,06:40 PM,01:00 AM,06:20,"PU: Home, 25 Stratford Road, Harrison NY; WT: As directed ; DO: Home, 25 Stratford Road, Harrison NY; ",Fabricio Beato,Daily/Weekly Driver,167.94,167.94
+12/12/2015,06:55 PM,11:53 PM,04:58,"PU: Home, 30 Park Avenue (corner of 36th and Park), New York NY; WT: Bronxville as directed ; DO: Home, 30 Park Avenue (corner of 36th and Park), New York NY; ",Rick Hutton,Hourly Service,214.20,214.20
+12/12/2015,07:15 PM,10:15 PM,03:00,"PU: 8 Tor Terrace, New City NY; DO: New City, NY United States; ",Gary Wartenberg,Hourly Service,135.00,135.00
+12/12/2015,10:00 PM,12:00 AM,02:00,"PU: 32 Chateau Ridge Road, Greenwich ; DO: Home, 1 Morningside Drive, New York NY; ",Jason Ramos,Drive-Me-Home Service,136.75,136.75
+12/13/2015,07:45 AM,10:55 AM,03:10,"PU: New York, John F Kennedy International Airport, LAN Airlines; DO: 27 Cross Highway, Westport CT; ",Bill Nollman,Round Trip,136.50,136.50
+12/13/2015,08:45 AM,06:00 PM,09:15,"PU: 24 Manetto Drive, Plainview NY; WT: drive as directed  ; DO: 24 Manetto Drive, Plainview NY; ",Wendell Gooding,Hourly Service,416.67,416.67
+12/13/2015,05:30 PM,07:23 PM,01:53,"PU: New York, LaGuardia Airport, Delta Air Lines - DL; DO: 106 East 19th Street, New York NY; ",Rick Hutton,Round Trip,55.08,55.08
+12/13/2015,06:30 PM,09:30 PM,03:00,"PU: Newark International Airport, United Airlines - UA; DO: Home, 77 Overlook Drive, New Canaan CT; ",John Rooney,Round Trip,126.00,126.00
+12/13/2015,07:00 PM,08:15 PM,01:15,"PU: Private Charter located backend of HPN airport, 136 Tower Road, Purchase NY; DO: Home, 63 Burning Tree Road, Greenwich CT; ",Steve Cid,One Way Pick Up,84.00,84.00
+12/14/2015,07:55 AM,10:55 AM,03:00,"PU: Home, 72 Toilsome Ave, Norwalk CT; WT: 900 Madison Ave, Bridgeport CT; DO: 72 Toilsome Ave, Norwalk CT; ",Cesar Parra,Hourly Service,128.52,128.52
+12/14/2015,08:55 AM,11:15 PM,14:20,"PU: Home, 25 Stratford Road, Harrison NY; WT: As directed ; DO: Home, 25 Stratford Road, Harrison NY; ",Fabricio Beato,Daily/Weekly Driver,368.18,368.18
+12/14/2015,11:40 AM,03:15 PM,03:35,"PU: Champion Parking - 101 E 16th St, NY.  Slot 111 (btwn Park & Irving)., 101 E 16th St, New York NY; ST: 13 Gramercy Park South, New York NY; WT: As DirectedNew York NY; DO: 13 Gramercy Park South, New York NY; DO: Champion Parking - 101 E 16th St, NY.  Slot 111 (btwn Park & Irving)., 101 E 16th St, New York NY; ",Daron Jones,Hourly Service,227.97,227.97
+12/14/2015,01:30 PM,04:00 PM,02:30,"PU: 11 Salem Lane, Westport CT; DO: New York, John F Kennedy International Airport; ",Asif Khan,Round Trip,92.82,92.82
+12/14/2015,01:30 PM,03:30 PM,02:00,"PU: NEST+m Science and Technology School, 111 Columbia Street, New York NY; DO: Home, 2287 Johnson Ave, Bronx NY; ",Eladio Lopez,Daily/Weekly Driver,63.99,63.99
+12/14/2015,03:30 PM,11:30 PM,08:00,"PU: Home, 25 Rossimur Court, Wilton CT; WT: Cafe  Luxembourg, 200 W 70th St, New York NY; WT: Lincoln Center, 10 Lincoln Center Plaza, New York NY; DO: Home, 25 Rossimur Court, Wilton CT; ",John Rooney,Hourly Service,336.00,336.00
+12/14/2015,03:40 PM,05:40 PM,02:00,"PU: Pick up Hadley from home, 223 Grace Church Road, Rye NY; WT: Greenwich Education Group, 6 Riverside Ave, Riverside CT; DO: Drop Hadley off home, 223 Grace Church Road, Rye NY; ",Jim Pelka,Hourly Service,84.00,84.00
+12/14/2015,04:15 PM,03:30 AM,11:15,"PU: 115 E 89th St, New York City NY; DO: 119 Main Street, East Hampton NY; ",Daron Jones,Drive-Me-Home Service,409.00,409.00
+12/14/2015,05:30 PM,11:00 PM,05:30,"PU: Home, 25 Stratford Road, Harrison NY; ST: Drop off Lucy, 45 Blossom Cove Road, Red Bank NJ; PU: New York, John F Kennedy International Airport, Delta Air Lines - DL; DO: Home, 25 Stratford Road, Harrison NY; ",James Pabon,Daily/Weekly Driver,142.10,142.10
+12/14/2015,07:00 PM,10:25 PM,03:25,"PU: 26 Old Parish Road, Darien CT; WT: The Pound Ridge Inn, 258 Westchester Ave, 10576 NY; DO: 26 Old Parish Road, Darien CT; ",Preston Goddard,Hourly Service,132.00,132.00
+12/14/2015,07:15 PM,10:30 PM,03:15,"PU: New York, LaGuardia Airport, JetBlue Airways - B6; DO: Home, 46 5th Street, Norwalk CT; ",Steve Cid,Round Trip,154.25,154.25
+12/14/2015,09:00 PM,12:15 AM,03:15,"PU: La Guardia Airport, Delta Air Lines; DO: 27 Miles Road, Darien CT; ",Cesar Parra,Round Trip,77.89,77.89
+12/15/2015,06:30 AM,11:30 AM,05:00,"PU: JVN Systems Office , 100 East Jefryn Blvd, Deer Park NY; WT: Manhattan Round trip as directed ; DO: JVN Systems Office, 100 East Jefryn Blvd, Deer Park NY; ",Alvin Robinson,Hourly Service,213.98,213.98
+12/15/2015,07:30 AM,09:45 AM,02:15,"PU: 31 Southwood Drive, New Canaan CT; DO: New York, LaGuardia Airport; ",Mark Clelford,Round Trip,74.95,74.95
+12/15/2015,09:15 AM,01:15 PM,04:00,"PU: P/up car from garage, 1401 4th Avenue, New Hyde Park ; PU: Home, 403 Littleworth Lane, Sea Cliff NY; ST:  ; DO: 1401 4th Avenue, New Hyde Park NY 11040; ",Frandy Perez,Hourly Service,171.36,171.36
+12/15/2015,09:20 AM,11:55 AM,02:35,"PU: 49 Creeping Hemlock drive, Norwalk CT; DO: LaGuardia Airport, United Airlines - UA; ",Ivan Delabrena,Round Trip,115.50,115.50
+12/15/2015,09:30 AM,05:15 PM,07:45,"PU: Home, 20 Whitney Lane, Old Westbury NY; DO: Home, 20 Whitney Lane, Old Westbury NY; ",Wendell Gooding,Hourly Service,342.21,342.21
+12/15/2015,10:20 AM,06:20 PM,08:00,"PU: 2 Richmond Hill, Irvington NY; ST:  ; DO: 2 Richmond Hill, Irvington NY; ",Cesar Parra,Hourly Service,336.00,336.00
+12/15/2015,11:00 AM,02:30 PM,03:30,"PU: JFK T4 ; DO: 282 Dans Highway, New Canaan Connecticut; ",Jim Pelka,One Way Pick Up,109.96,109.96
+12/15/2015,01:00 PM,04:15 PM,03:15,"PU: LaGuardia Airport, Southwest Airlines - WN; DO: 49 Louvain Street, Fairfield CT; ",Asif Khan,Round Trip,94.97,94.97
+12/15/2015,01:10 PM,02:20 PM,01:10,"PU: Home, 25 Stratford Road, Harrison NY; DO: LaGuardia Airport, Delta Air Lines - DL; ",Bill Nollman,Round Trip,51.67,51.67
+12/15/2015,01:30 PM,03:30 PM,02:00,"PU: NEST+m Science and Technology School, 111 Columbia Street, New York NY; DO: Home, 2287 Johnson Ave, Bronx NY; ",Eladio Lopez,Daily/Weekly Driver,63.99,63.99
+12/15/2015,01:55 PM,04:05 PM,02:10,"PU: 136 Brite Ave, Scarsdale NY; DO: New York, John F Kennedy International Airport, Delta Air Lines - DL; ",Daron Jones,Round Trip,166.15,166.15
+12/15/2015,02:00 PM,11:00 PM,09:00,"PU: Home, 25 Stratford Road, Harrison NY; WT: As directed ; DO: Home, 25 Stratford Road, Harrison NY; ",Preston Goddard,Daily/Weekly Driver,232.53,232.53
+12/15/2015,02:15 PM,04:45 PM,02:30,"PU: 43 Devoe Rd, Chappaqua NY; DO: LaGuardia Airport; ",Frank Dailey,One Way Drop Off,107.10,107.10
+12/15/2015,04:30 PM,12:34 AM,08:04,"PU: Home, 880 5th Ave, New York NY; ST: P/up friend, East 72nd St, New York NY; WT: Cocktail party, 1175 Park Avenue, New York NY; WT: As directed to dinner, As directed to dinner NYC ; ST: Drop off friend, East 72nd St, New York NY; DO: Home, 880 5th Ave, New York NY; ",Eddie Sultan,Hourly Service,342.72,342.72
+12/15/2015,05:00 PM,10:00 PM,05:00,"PU: Home, 275 Hobart Avenue, Short Hills NJ; WT: NYC as directed ; DO: Home, 275 Hobart Avenue, Short Hills NJ; ",Gary Wartenberg,Hourly Service,225.42,225.42
+12/16/2015,05:25 AM,07:20 AM,01:55,"PU: 168 Gillies Lane, Norwalk CT; DO: LaGuardia Airport; ",Bill Nollman,Round Trip,71.45,71.45
+12/16/2015,06:00 AM,08:00 AM,02:00,"PU: Home, 34 Meeting House Rd., Greenwich CT; DO: Office, 1585 Broadway, New York NY; ",Preston Goddard,Daily/Weekly Driver,65.67,65.67
+12/16/2015,06:45 AM,06:00 PM,11:15,"PU: Home, 1-C Wilshire Road, Madison CT; WT: Hotel UMass, 1 Campus Center Way, Amherst MA; DO: Home, 1-C Wilshire Road, Madison CT; ",John Rooney,Hourly Service,472.50,472.50
+12/16/2015,08:45 AM,05:30 PM,08:45,"PU: P/up car from garage, 1401 4th Avenue, New Hyde Park ; ST: P/up client from Office, 3333 New Hyde Park Rd, New Hyde Park NY; WT: Brooklyn as directed ; WT: Portchester as directed ; ST: Drop off client at Office, 3333 New Hyde Park Rd, New Hyde Park NY; DO: Drop car off at garage, 1401 4th Avenue, New Hyde Park ; ",Frandy Perez,Hourly Service,374.85,374.85
+12/16/2015,09:15 AM,08:45 PM,11:30,"PU: David Zane's, 260 Prospect Ave, Westfield NJ; WT: Richard Rodgers Theater, 226 W 46th St, New York NY; DO: David Zane's, 260 Prospect Ave, Westfield NJ; ",Asif Khan,Hourly Service,483.00,483.00
+12/16/2015,09:15 AM,09:20 PM,12:05,"PU: Home, 25 Stratford Road, Harrison NY; WT: As directed ; DO: Home, 25 Stratford Road, Harrison NY; ",Preston Goddard,Daily/Weekly Driver,310.04,310.04
+12/16/2015,10:00 AM,08:30 PM,10:30,"PU: 119 Main Street, East Hampton NY; DO: 115 East 89th Street, New York NY; ",Daron Jones,Drive-Me-Home Service,476.95,476.95
+12/16/2015,10:00 AM,02:30 PM,04:30,"PU: Home, 870 United Nations Plaza, New York NY; DO: Home, 870 United Nations Plaza, New York NY; ",Wendell Gooding,Hourly Service,177.60,177.60
+12/16/2015,10:30 AM,05:00 PM,06:30,"PU: Home, The Springs Complex - 8 Westview, Purchase NY; WT: 520 East 70th Street off York Ave, New York NY; DO: Home, The Springs Complex - 8 Westview, Purchase NY; ",Steve Cid,Hourly Service,278.46,278.46
+12/16/2015,01:30 PM,03:30 PM,02:00,"PU: NEST+m Science and Technology School, 111 Columbia Street, New York NY; DO: Home, 2287 Johnson Ave, Bronx NY; ",Eladio Lopez,Daily/Weekly Driver,63.99,63.99
+12/16/2015,03:15 PM,07:50 PM,04:35,"PU: LaGuardia Airport, Delta Air Lines - DL; WT: NYC as directed ; DO: Home, 25 Stratford Road, Harrison NY; ",Bill Nollman,Round Trip,116.27,116.27
+12/16/2015,04:00 PM,07:15 PM,03:15,"PU: 27 Cross Hwy, Westport CT; DO: New York, John F Kennedy International Airport; ",Tom Belviso (TR),Round Trip,103.03,103.03
+12/16/2015,05:25 PM,08:30 PM,03:05,"PU: Home, 12 Gedney Way, Chappaqua NY; WT: Sound Shore Tennis, 303 Boston Post Road, Port Chester NY; DO: Home, 12 Gedney Way, Chappaqua NY; ",Edward Goldstein,Hourly Service,105.00,105.00
+12/16/2015,05:30 PM,09:00 PM,03:30,"PU: New York, John F Kennedy International Airport, Virgin America; DO: 2360 Bronson  Road, Fairfield CT; ",Geoffrey Keller,One Way Pick Up,149.94,149.94
+12/16/2015,06:00 PM,08:40 PM,02:40,"PU: LaGuardia Airport, American Airlines; DO: 5 Country Lane rd., Westport CT; ",Cesar Parra,One Way Pick Up,107.20,107.20
+12/16/2015,06:20 PM,01:14 AM,06:54,"PU: Home, 386 Vanderbilt Blv, Oakdale NY; WT: SteakhouseMelville NY; DO: Home, 386 Vanderbilt Blv, Oakdale NY; ",Rick Hutton,Hourly Service,294.00,294.00
+12/16/2015,07:00 PM,12:00 AM,05:00,"PU: Home, 6 Coventry Court, Purchase NY; WT: TBD: City Restaurant ; DO: Home, 6 Coventry Court, Purchase NY; ",Jim Pelka,Hourly Service,214.20,214.20
+12/16/2015,07:14 PM,N/A,01:00,"PU: La Guardia Airport, Delta Air Lines; DO: Home, 208 Bayberry lane, Westport CT; ",Mark Clelford,Round Trip,0.00,0.00
+12/16/2015,08:45 PM,01:15 AM,04:30,"PU: Gran Central StationNew York NY; DO: Home, 14 North Road, Wayne NJ; ",Gary Wartenberg,Drive-Me-Home Service,184.20,184.20
+12/17/2015,05:45 AM,08:15 AM,02:30,"PU: 4 Autumn Ridge Road, Weston CT; DO: LaGuardia Airport, Southwest Airlines - WN; ",Asif Khan,Round Trip,90.31,90.31
+12/17/2015,06:00 AM,08:00 AM,02:00,"PU: Home, 34 Meeting House Rd., Greenwich CT; DO: Office, 1585 Broadway, New York NY; ",Preston Goddard,Daily/Weekly Driver,65.67,65.67
+12/17/2015,11:00 AM,04:40 PM,05:40,"PU: Home, 25 Stratford Road, Harrison NY; WT: As directed ; DO: Home, 25 Stratford Road, Harrison NY; ",Preston Goddard,Daily/Weekly Driver,148.56,148.56
+12/17/2015,12:00 PM,09:30 PM,09:30,"PU: Home - Pick up vehicle, 160 Lantern Ridge Rd., New Canaan CT; PU: The Pierre - A Taj Hotel, 2 East 61st Street, New York NY; WT: As DirectedNYC NY; DO: The Pierre - A Taj Hotel, 2 East 61st Street, New York NY; ",John Rooney,Hourly Service,430.00,430.00
+12/17/2015,12:15 PM,03:00 PM,02:45,"PU: Home, 34 Meeting House Rd., Greenwich CT; DO: Newark International Airport, United Airlines; ",Jim Pelka,One Way Drop Off,90.30,90.30
+12/17/2015,12:30 PM,04:00 PM,03:30,"PU: Home, 52 Pipers Hill Rd, Wilton CT; DO: New York, John F Kennedy International Airport; ",Tom Belviso (TR),One Way Drop Off,149.94,149.94
+12/17/2015,01:30 PM,03:30 PM,02:00,"PU: NEST+m Science and Technology School, 111 Columbia Street, New York NY; DO: Home, 2287 Johnson Ave, Bronx NY; ",Eladio Lopez,Daily/Weekly Driver,63.99,63.99
+12/17/2015,02:55 PM,01:18 AM,10:23,"PU: 3PM P/up car, 268 Succabone Road, Bedford Corners NY; ST: P/up 1 pax, 44 Brook Farm Road East, Bedford NY; ST: P/up client from home, 268 Succabone Rd, NY ; ST: 9 East First Street  New York, NY 10003 ; ST: 217 East Houston Street, New York NY; ST: Drop off pax, 44 Brook Farm Road, Bedford NY; ST: P/up pax ; DO: Home, 268 Succabone Rd, Mt Kisco NY; ",Edward Goldstein,Hourly Service,449.82,449.82
+12/17/2015,03:15 PM,07:05 PM,03:50,"PU: Home, 14 Loren Lane, Westport CT; DO: LaGuardia Airport, American Airlines - AA; ",Cesar Parra,Round Trip,168.00,168.00
+12/17/2015,04:30 PM,10:10 PM,05:40,"PU: Home, 880 5th Ave, New York NY; WT: Cocktail party at a friend's, 1020 5th Avenue, New York NY; DO: Home, 880 5th Ave, New York NY; ",Daron Jones,Hourly Service,246.33,246.33
+12/17/2015,05:15 PM,07:45 PM,02:30,"PU: 345 Sierra Vista Lane, Valley Cottage NY 10989; DO: Westchester/White Plains; ",Frank Dailey,Round Trip,50.76,50.76
+12/17/2015,05:30 PM,07:30 PM,02:00,"PU: Home, 12 Bronson Avenue, Larchmont NY; DO: New York, LaGuardia Airport; ",Jim Pelka,Round Trip,84.00,84.00
+12/17/2015,06:45 PM,10:40 PM,03:55,"PU: 1 Main Parkway, Plainview NY; WT: Garden City, NY ; DO: 1 Main Parkway, Plainview NY; ",Wendell Gooding,Hourly Service,181.86,181.86
+12/18/2015,06:15 AM,09:05 AM,02:50,"PU: 28 Peck Road, Danbury CT; DO: LaGuardia Airport; ",Mark Clelford,Round Trip,99.04,99.04
+12/18/2015,06:20 AM,08:00 AM,01:40,"PU: Home, 7 Court of Oaks, Westport CT; DO: Westchester/White Plains; ",Asif Khan,Round Trip,84.00,84.00
+12/18/2015,07:55 AM,10:45 AM,02:50,"PU: 141 Godfrey Rd East, Weston CT; DO: John F Kennedy International Airport; ",Bill Nollman,One Way Drop Off,115.50,115.50
+12/18/2015,08:00 AM,07:00 PM,11:00,"PU: Home - Pick up vehicle, 160 Lantern Ridge Rd., New Canaan CT; PU: The Pierre - A Taj Hotel, 2 East 61st Street, New York NY; WT: As DirectedNYC NY; DO: Home, 160 Lantern Ridge Rd., New Canaan CT; ",Daron Jones,Hourly Service,462.00,462.00
+12/18/2015,08:30 AM,10:30 AM,02:00,"PU: Home, 117 Clearview Lane, New Canaan CT; DO: La Guardia Airport, JetBlue Airways; ",John Rooney,Round Trip,85.68,85.68
+12/18/2015,09:00 AM,05:30 PM,08:30,"PU: Home, 25 Stratford Road, Harrison NY; WT: As directed ; DO: Home, 25 Stratford Road, Harrison NY; ",Preston Goddard,Daily/Weekly Driver,219.61,219.61
+12/18/2015,09:00 AM,01:20 PM,04:20,"PU: Home, 20 Whitney Lane, Old Westbury NY; WT: As DirectedNew York NY; DO: Home, 20 Whitney Lane, Old Westbury NY; ",Eddie Sultan,Hourly Service,192.78,192.78
+12/18/2015,09:15 AM,05:15 PM,08:00,"PU: Home, 870 United Nations Plaza, New York NY; DO: Home, 870 United Nations Plaza, New York NY; ",Wendell Gooding,Hourly Service,303.04,303.04
+12/18/2015,10:30 AM,06:00 PM,07:30,"PU: Vermont Academy, 10 Long Walk, Saxton's River VT; DO: Home, 16 Bluff Point, Westport CT; ",Jim Pelka,Hourly Service,315.00,315.00
+12/18/2015,10:30 AM,01:15 PM,02:45,"PU: Home, 240 Riverside Blvd, New York NY; DO: Airport TBA ; ",Eladio Lopez,One Way Drop Off,131.50,131.50
+12/18/2015,10:30 AM,05:00 PM,06:30,"PU: 992 S. End, Woodmere NY; WT: Weatherhead-Young Funeral Home, 885 Mantoloking Rd, Brick NJ; DO: 992 S. End, Woodmere NY; ",Frandy Perez,Hourly Service,278.46,278.46
+12/18/2015,10:30 AM,02:00 PM,03:30,"PU: Home, 21 Buckingham Drive, Madison NJ; ST: 12 Ridge St, Basking Ridge NJ; DO: Home, 21 Buckingham Drive, Madison NJ; ",Gary Wartenberg,Hourly Service,158.00,158.00
+12/18/2015,10:40 AM,05:40 PM,07:00,"PU: 30 W 63rd St, New York City NY; WT: Blackstone's RestaurantWilton CT; DO: 30 W 63rd St, New York City NY; ",Rick Hutton,Hourly Service,274.00,274.00
+12/18/2015,11:30 AM,01:30 PM,02:00,"PU: 63 Palmer Hill Road, Stamford CT; DO: John F Kennedy International Airport; ",John Rooney,Round Trip,84.00,84.00
+12/18/2015,12:15 PM,02:50 PM,02:35,"PU: 58 Partrick Road, Westport CT; DO: John F Kennedy International Airport; ",Asif Khan,One Way Drop Off,93.22,93.22
+12/18/2015,01:30 PM,03:30 PM,02:00,"PU: NEST+m Science and Technology School, 111 Columbia Street, New York NY; DO: Home, 2287 Johnson Ave, Bronx NY; ",Eladio Lopez,Daily/Weekly Driver,63.99,63.99
+12/18/2015,02:00 PM,04:45 PM,02:45,"PU: 62 Wilson Avenue, Norwalk CT; DO: John F Kennedy International Airport; ",Tom Belviso (TR),One Way Drop Off,82.20,82.20
+12/18/2015,04:00 PM,11:00 PM,07:00,"PU: Home, 26 East Gate Road, Lloyd Harbor NY; DO: Home, 26 East Gate Road, Lloyd Harbor NY; ",Richard Young,Hourly Service,299.88,299.88
+12/18/2015,04:00 PM,11:40 PM,07:40,"PU: 15 Mountain Wood Drive, Greenwich CT; WT: NYC as directed ; DO: 15 Mountain Wood Drive, Greenwich CT; ",Asif Khan,Hourly Service,325.50,325.50
+12/18/2015,05:00 PM,08:30 PM,03:30,"PU: 11 Keyser Rd, Westport CT; DO: New York, John F Kennedy International Airport, Virgin Atlantic; ",John Rooney,Round Trip,96.68,96.68
+12/18/2015,06:30 PM,01:00 AM,06:30,"PU: 174 Grand Street, New York NY 10013; WT: 1681 Woodland Avenue, Edison NJ; DO: 174 Grand Street, New York ; ",Alvin Robinson,Hourly Service,263.50,263.50
+12/18/2015,08:30 PM,12:30 AM,04:00,"PU: Icon Parking, 304 E 53rd St, New York NY; PU: 194 Elizabeth Street, New York NY; DO: 11 Burling Avenue, White Plains NY; ",David Santorsola,Drive-Me-Home Service,201.00,201.00
+12/18/2015,10:00 PM,01:00 AM,03:00,"DO: 134 Brook Dale Road, Stamford CT; PU: New York, John F Kennedy International Airport, JetBlue Airways; ",Bill Nollman,One Way Pick Up,128.52,128.52
+12/19/2015,05:30 AM,08:30 AM,03:00,"PU: 282 Chestnut Hill Rd, Wilton CT; DO: John F Kennedy International Airport; ",Randy Shapiro,Round Trip,95.68,95.68
+12/19/2015,05:30 AM,08:00 AM,02:30,"PU: 28 Stony Brook Rd, Westport CT; DO: New York, John F Kennedy International Airport, JetBlue Airways - B6; ",Tom Belviso (TR),Round Trip,93.22,93.22
+12/19/2015,06:45 AM,09:30 AM,02:45,"PU: Home, 134 Brookdale Rd, Stamford CT; DO: John F Kennedy International Airport; ",Cesar Parra,Round Trip,117.81,117.81
+12/19/2015,07:15 AM,09:15 AM,02:00,"PU: Home, 34 Prospect Avenue, Darien CT; DO: New York, John F Kennedy International Airport; ",Mark Clelford,Round Trip,84.00,84.00
+12/19/2015,07:25 AM,N/A,00:15,"PU: 55 Hilltop Lane Thornwood, NY 10594; DO: Westchester/White Plains; ",Frank Dailey,Round Trip,0.00,0.00
+12/19/2015,07:30 AM,09:30 AM,02:00,"PU: Home, 19 Rippowam Road, Stamford CT; DO: Westchester/White Plains; ",John Rooney,Round Trip,84.00,84.00
+12/19/2015,07:45 AM,09:55 AM,02:10,"PU: 229 Rowayton Avenue, Norwalk CT; DO: New York, John F Kennedy International Airport; ",Preston Goddard,Round Trip,84.01,84.01
+12/19/2015,08:15 AM,10:15 AM,02:00,"PU: 51 Ellsworth Road, Larchmont NY; DO: Newark International Airport, JetBlue Airways - B6; ",Jim Pelka,One Way Drop Off,85.69,85.69
+12/19/2015,08:30 AM,03:17 PM,06:47,"PU: Boston College, 144 Hammond Street, Chestnut Hill MA; DO: Home, 47 Stonehenge Drive, New Canaan CT; ",Geoffrey Keller,One Way Pick Up,283.50,283.50
+12/19/2015,12:30 PM,10:30 PM,10:00,"PU: 101 West 57th Street, New York NY; WT: Multiple NYC locations ; DO: 101 West 57th Street, New York NY; ",Gary Wartenberg,Hourly Service,405.00,405.00
+12/19/2015,02:00 PM,07:00 PM,05:00,"PU: Home, 132 Lincoln Avenue, Purchase NY; WT: Barclays CenterBrooklyn NY; DO: Home, 132 Lincoln Avenue, Purchase NY; ",Jason Ramos,Hourly Service,214.20,214.20
+12/19/2015,02:15 PM,05:30 PM,03:15,"PU: HOME: 16 Stonewall Circle, West Harrison NY; DO: New York, John F Kennedy International Airport; ",Jim Pelka,One Way Drop Off,136.50,136.50
+12/19/2015,04:15 PM,07:00 PM,02:45,"PU: New York, LaGuardia Airport, Delta Air Lines - DL; DO: HOME: 14 Silver Brook Road, Westport CT; ",Randy Shapiro,Round Trip,100.00,100.00
+12/19/2015,05:00 PM,09:30 PM,04:30,"PU: TBD - Theater District, New York City NY; DO: 53 Round Hill Drive, Fairfield CT; ",John Rooney,One Way Pick Up,189.00,189.00
+12/19/2015,06:00 PM,08:30 PM,02:30,"PU: New York, John F Kennedy International Airport, Delta Air Lines - DL; DO: 88 East Middle Patent Road, Bedford NY; ",Jim Pelka,One Way Pick Up,107.10,107.10
+12/19/2015,06:40 PM,12:15 AM,05:35,"PU: 151 Ramble Road, Staten Island NY; WT: Various Locations - TBD ; DO: 151 Ramble Road, Staten Island NY; ",Alvin Robinson,Hourly Service,236.00,236.00
+12/19/2015,07:00 PM,01:30 AM,06:30,"PU: Home, 52 Wheatley Road, Glen Head NY; WT: As DirectedNew York NY; DO: Home, 52 Wheatley Road, Glen Head NY; ",Gary Sanford,Hourly Service,278.46,278.46
+12/19/2015,07:40 PM,10:50 PM,03:10,"PU: 20 Beechwood Blvd, Rye Brook NY; WT: 954 Old Post Road, Bedford NY; DO: 20 Beechwood Blvd, Rye Brook NY; ",Steve Cid,Hourly Service,136.50,136.50
+12/19/2015,07:55 PM,04:00 AM,08:05,"PU: Marrocca's Residence, 83 Deepwood Road, Easton CT; ST: 16 Farrell Road, Weston CT; WT: 80th 3rd avenue, Brooklyn NY; DO: 16 Farrell Road, Weston CT; DO: Marrocca's Residence, 83 Deepwood Road, Easton CT; ",Daron Jones,Hourly Service,336.00,336.00
+12/19/2015,10:00 PM,01:00 AM,03:00,"PU: New York, John F Kennedy International Airport, American Airlines - AA; DO: 11 Burritts Landing North, Westport CT; ",Jim Pelka,One Way Pick Up,109.96,109.96
+12/19/2015,10:15 PM,01:50 AM,03:35,"PU: New York, John F Kennedy International Airport, Virgin America; DO: Home, 71 Geraldine Circle, Trumbull CT; ",Jeffrey Meyer,One Way Pick Up,157.50,157.50
+12/20/2015,03:45 AM,06:55 AM,03:10,"PU: 5151 Park Avenue, Fairfield CT; DO: Newark Liberty International Airport; ",Jay Maltas,One Way Drop Off,121.38,121.38
+12/20/2015,04:00 AM,06:00 AM,02:00,"PU: 215 Fair Oak Drive, Fairfield CT; DO: New York, LaGuardia Airport; ",Randy Shapiro,Round Trip,86.35,86.35
+12/20/2015,04:05 AM,06:45 AM,02:40,"PU: Home, 12 North Seir Hill Road, Norwalk CT; DO: New York, John F Kennedy International Airport, JetBlue Airways - B6; ",Cesar Parra,Round Trip,117.81,117.81
+12/20/2015,05:45 AM,07:45 AM,02:00,"PU: Home, 1455 Washington Blvd, Stamford CT; DO: New York, LaGuardia Airport; ",Preston Goddard,Round Trip,70.68,70.68
+12/20/2015,05:55 AM,08:05 AM,02:10,"PU: 11 Marianna Drive, Hastings-on-Hudson NY; DO: New York, John F Kennedy International Airport; ",Steve Cid,Round Trip,96.39,96.39
+12/20/2015,06:15 AM,08:10 AM,01:55,"PU: 75 Pembroke Road, Darien CT; DO: La Guardia Airport; ",Asif Khan,Round Trip,84.00,84.00
+12/20/2015,08:00 AM,09:10 AM,01:10,"PU: 223 Jennie Lane, Fairfield CT; DO: LaGuardia Airport, JetBlue Airways - B6; ",Mark Clelford,Round Trip,108.45,108.45
+12/20/2015,08:00 AM,11:17 AM,03:17,"PU: 356 Black Rock Turnpike, Redding CT; DO: New York, John F Kennedy International Airport; ",Geoffrey Keller,Round Trip,94.50,94.50
+12/20/2015,08:40 AM,07:40 PM,11:00,"PU: 870 Mine Hill Road, Fairfield CT; WT: Meadowlands Stadium, E. Rutherford NJ; DO: 870 Mine Hill Road, Fairfield CT; ",Gary Wartenberg,Hourly Service,492.66,492.66
+12/20/2015,10:00 AM,06:30 PM,08:30,"PU: Home, 16 Huntinghill Road, Woodbridge CT; WT: Gillette Stadium, 1 Patriot Pl, Foxboro MA; DO: Home, 16 Huntinghill Road, Woodbridge CT; ",Tom Belviso (TR),Hourly Service,357.00,357.00
+12/20/2015,11:00 AM,06:30 PM,07:30,"PU: 17 Point O Woods Road, Darien CT; WT: Garden City, NY ; DO: 17 Point 0 Woods Road, Darian CT; ",Gary Sanford,Hourly Service,315.00,315.00
+12/20/2015,02:45 PM,05:40 PM,02:55,"PU: LaGuardia Airport, Southwest Airlines - WN; DO: 4 Autumn Ridge Road, Weston CT; ",Asif Khan,Round Trip,86.67,86.67
+12/20/2015,04:15 PM,07:45 PM,03:30,"PU: New York, John F Kennedy International Airport, Virgin Atlantic - VS; DO: 27 Cross Hwy, Westport CT; ",Jeffrey Meyer,Round Trip,102.92,102.92
+12/20/2015,05:15 PM,08:00 PM,02:45,"PU: LaGuardia Airport, American Airlines - AA; DO: Home, 14 Loren Lane, Westport CT; ",Cesar Parra,Round Trip,115.50,115.50
+12/20/2015,06:00 PM,08:00 PM,02:00,"PU: New York, LaGuardia Airport, United Airlines - UA; DO: Home, 12 Bronson Avenue, Larchmont NY; ",Jim Pelka,Round Trip,84.00,84.00
+12/20/2015,06:50 PM,08:00 PM,01:10,"PU: 7 Knolltop Road, Elmsford NY; DO: 45 Glenville Road, Greenwich CT; ",John Searight,Drive-Me-Home Service,107.36,107.36
+12/20/2015,07:55 PM,10:25 PM,02:30,"PU: 7 Knolltop Rd, Elmsford NY; DO: 157 Ridgemont Drive, Hopewell Junction NY; ",Steve Cid,Drive-Me-Home Service,105.00,105.00
+12/21/2015,04:30 AM,07:55 AM,03:25,"PU: New York, John F Kennedy International Airport, Delta Air Lines; DO: Home, 71 Geraldine Circle, Trumbull CT; ",Mark Clelford,One Way Drop Off,147.00,147.00
+12/21/2015,05:20 AM,07:20 AM,02:00,"PU: 17 Normandy Lane, New Rochelle NY; DO: New York, John F Kennedy International Airport, American Airlines - AA; ",Jim Pelka,One Way Drop Off,84.00,84.00
+12/21/2015,06:15 AM,07:15 AM,01:00,"PU: 29 Bonnie Way, Larchmont NY; DO: Westchester/White Plains; ",Preston Goddard,Round Trip,49.75,49.75
+12/21/2015,06:40 AM,09:10 AM,02:30,"PU: 800 Lake Avenue, Greenwich NY; DO: New York, John F Kennedy International Airport, JetBlue Airways; ",David Santorsola,Round Trip,72.46,72.46
+12/21/2015,07:00 AM,10:34 AM,03:34,"PU: Home, 10 Taintor Drive, Southport CT; WT: Bridgeport Hospital, 267 Grant St, Bridgeport CT; DO: Home, 10 Taintor Drive, Southport CT; ",Geoffrey Keller,Hourly Service,147.00,147.00
+12/21/2015,07:00 AM,11:18 AM,04:18,"PU: New York, John F Kennedy International Airport, American Airlines - AA; DO: 8 Plaster House Road, Southbury CT; ",Edward Goldstein,Round Trip,78.00,78.00
+12/21/2015,07:40 AM,09:30 AM,01:50,"PU: 45 Sturgis Road, Bronxville NY; DO: New York, John F Kennedy International Airport; ",Daron Jones,One Way Drop Off,72.28,72.28
+12/21/2015,10:00 AM,11:45 AM,01:45,"PU: 7 Clark Street, Old Greenwich CT 06870; DO: New York, LaGuardia Airport; ",Bill Nollman,Round Trip,85.68,85.68
+12/21/2015,10:30 AM,04:00 PM,05:30,"PU: Home, 160 Lantern Ridge Rd., New Canaan CT; WT: As DirectedNYC NY; DO: Home, 160 Lantern Ridge Rd., New Canaan CT; ",John Rooney,Daily/Weekly Driver,231.00,231.00
+12/21/2015,11:30 AM,01:45 PM,02:15,"PU: 234 East Hunting Ridge Road, Stamford CT; DO: LaGuardia Airport, Delta Air Lines - DL; ",Jim Pelka,Round Trip,87.39,87.39
+12/21/2015,11:45 AM,05:00 PM,05:15,"PU: 63 Island Dr, Rye NY; WT: Inn at Pound Ridge, 258 Westchester Ave ; DO: 63 Island Drive, Rye NY; ",Steve Cid,Hourly Service,224.91,224.91
+12/21/2015,01:30 PM,03:30 PM,02:00,"PU: NEST+m Science and Technology School, 111 Columbia Street, New York NY; DO: Home, 2287 Johnson Ave, Bronx NY; ",Eladio Lopez,Daily/Weekly Driver,63.99,63.99
+12/21/2015,01:50 PM,04:50 PM,03:00,"PU: Home, 415 Farms Rd, Greenwich CT; DO: John F Kennedy International Airport; ",Cesar Parra,One Way Drop Off,159.12,159.12
+12/21/2015,03:30 PM,08:00 PM,04:30,"PU: 147 Walek Farms Road, Manchester CT; DO: General Edward Lawrence Logan International Airport; ",Tom Belviso (TR),Round Trip,152.17,152.17
+12/21/2015,03:40 PM,05:40 PM,02:00,"PU: 223 Grace Church Road, Rye NY; WT: 6 Riverside Ave, Riverside CT; DO: Home, 223 Grace Church Road, Rye NY; ",Jim Pelka,Hourly Service,84.00,84.00
+12/21/2015,03:40 PM,07:15 PM,03:35,"PU: 641 5th Avenue, New York NY; DO: John F Kennedy International Airport; ",Daron Jones,One Way Drop Off,60.94,60.94
+12/21/2015,05:15 PM,07:45 PM,02:30,"PU: LaGuardia Airport, American Airlines; DO: Home, 11 Tokeneke Trail, Darien CT; ",Cesar Parra,One Way Pick Up,105.00,105.00
+12/21/2015,10:30 PM,01:30 AM,03:00,"PU: New York, John F Kennedy International Airport, Virgin America; DO: 918 Mill Plain Road, Fairfield CT; ",Jeffrey Meyer,One Way Pick Up,126.00,126.00
+12/21/2015,11:00 PM,01:25 AM,02:25,"PU: LaGuardia Airport, United Airlines - UA; DO: Home, 208 Bayberry lane, Westport CT; ",Bill Nollman,One Way Pick Up,0.00,0.00
+12/21/2015,11:05 PM,01:05 AM,02:00,"PU: New York, LaGuardia Airport, United Airlines - UA; DO: 48 Arcadia Rd, Old Greenwich CT; ",Preston Goddard,One Way Pick Up,85.68,85.68
+12/22/2015,03:55 AM,05:05 AM,01:10,"PU: 223 Larchmont Avenue, Larchmont NY; DO: John F Kennedy International Airport; ",Bill Nollman,Round Trip,84.00,84.00
+12/22/2015,04:40 AM,06:45 AM,02:05,"PU: Home, 32 Strawberry Hill Avenue, Norwalk CT; DO: New York, John F Kennedy International Airport; ",Cesar Parra,Round Trip,94.50,94.50
+12/22/2015,04:45 AM,07:00 AM,02:15,"PU: 800 Lake Avenue, Greenwich NY; DO: New York, John F Kennedy International Airport; ",Jim Pelka,One Way Drop Off,94.50,94.50
+12/22/2015,06:35 AM,08:45 AM,02:10,"PU: Home, 25 Stratford Road, Harrison NY; DO: John F Kennedy International Airport, JetBlue Airways; ",Preston Goddard,One Way Drop Off,58.13,58.13
+12/22/2015,08:00 AM,11:00 AM,03:00,"PU: 8 Tower Drive, Weston CT; DO: John F Kennedy International Airport; ",John Rooney,Round Trip,107.78,107.78
+12/22/2015,09:00 AM,05:15 PM,08:15,"PU: 322 West 57th Street, New York NY; WT: As directed to Bridgeport & Greenwich, CT ; DO: 322 West 57th Street, New York NY; ",Alvin Robinson,Hourly Service,359.04,359.04
+12/22/2015,09:55 AM,06:30 PM,08:35,"PU: Home, 1 Morton Square, New York NY; WT: As directed in NYC, NYC ; DO: Home, 1 Morton Square, New York NY; ",Eddie Sultan,Hourly Service,364.14,364.14
+12/22/2015,01:30 PM,03:30 PM,02:00,"PU: NEST+m Science and Technology School, 111 Columbia Street, New York NY; DO: Home, 2287 Johnson Ave, Bronx NY; ",Eladio Lopez,Daily/Weekly Driver,63.99,63.99
+12/22/2015,02:30 PM,07:30 PM,05:00,"PU: Home, 183 Hillspoint Road, Westport CT; DO: New York, John F Kennedy International Airport, American Airlines - AA; ",Ivan Delabrena,One Way Pick Up,210.00,210.00
+12/22/2015,03:30 PM,07:40 PM,04:10,"PU: 92 North Avenue, Westport CT; DO: New York, John F Kennedy International Airport; ",Cesar Parra,Round Trip,105.09,105.09
+12/22/2015,04:00 PM,08:00 PM,04:00,"PU: 55 Evergreen Avenue, Westport CT; DO: Newark International Airport; ",John Rooney,Round Trip,129.97,129.97
+12/22/2015,04:10 PM,06:15 PM,02:05,"PU: Home, 47 Marion Road, Westport CT; DO: Westchester/White Plains; ",Geoffrey Keller,Round Trip,96.39,96.39
+12/22/2015,07:45 PM,10:15 PM,02:30,"PU: 268 Succabone Road, Bedford Corners NY; WT: The Bedford Post Restaurant, 954 Old Post Rd, Bedford NY; DO: 268 Succabone Rd, Bedford Corners NY; ",Jim Pelka,Hourly Service,107.10,107.10
+12/22/2015,08:45 PM,12:10 AM,03:25,"PU: New York, John F Kennedy International Airport, Virgin America; DO: 141 Godfrey Road East, Weston CT; ",John Searight,One Way Pick Up,104.01,104.01
+12/22/2015,09:15 PM,11:00 PM,01:45,"PU: Home, 13 Gramercy Park South, New York NY; DO: John F Kennedy International Airport, Air France; ",Daron Jones,One Way Drop Off,85.68,85.68
+12/23/2015,04:45 AM,06:30 AM,01:45,"PU: 453 Siwanoy Place, Pelham NY; DO: New York, John F Kennedy International Airport; ",Jim Pelka,Round Trip,55.24,55.24
+12/23/2015,05:00 AM,07:45 AM,02:45,"PU: Home, 38 Harbor View Avenue, Norwalk CT; DO: New York, John F Kennedy International Airport, American Airlines - AA; ",Bill Nollman,Round Trip,117.81,117.81
+12/23/2015,06:00 AM,08:30 AM,02:30,"PU: 36 Tamarack Way, Pleasantville NY; DO: New York, John F Kennedy International Airport; ",Steve Cid,Round Trip,80.13,80.13
+12/23/2015,06:00 AM,09:30 AM,03:30,"PU: 1 Knollwood Drive, Greenwich CT; DO: John F Kennedy International Airport; ",Geoffrey Keller,One Way Drop Off,63.00,63.00
+12/23/2015,07:10 AM,09:55 AM,02:45,"PU: Home, 21 Overbrook Ln, Darien CT; DO: Newark International Airport; ",Jeffrey Meyer,One Way Drop Off,115.50,115.50
+12/23/2015,07:25 AM,09:40 AM,02:15,"PU: 4 Mittman Road, Rye NY; DO: New York, John F Kennedy International Airport; ",Cesar Parra,Round Trip,94.50,94.50
+12/23/2015,07:45 AM,09:45 AM,02:00,"PU: Home, 22 St John Place, Westport CT; DO: Westchester/White Plains; ",Preston Goddard,Round Trip,85.68,85.68
+12/23/2015,08:00 AM,10:00 AM,02:00,"PU: Home, 41 Wesskum Wood Rd, Greenwich CT; DO: Westchester/White Plains; ",John Rooney,Round Trip,85.68,85.68
+12/23/2015,08:00 AM,09:50 AM,01:50,"PU: Home, 37 Acorn Lane, Southport CT; DO: Westchester County Airport; ",Ivan Delabrena,Round Trip,85.68,85.68
+12/23/2015,09:00 AM,12:00 PM,03:00,"PU: 65 Beach Avenue, Larchmont NY; DO: Newark Liberty International Airport; ",Steve Cid,Round Trip,85.69,85.69
+12/23/2015,09:00 AM,12:15 PM,03:15,"PU: 11 Honeysuckle Drive, Norwalk CT; DO: New York, John F Kennedy International Airport, JetBlue Airways - B6; ",Jim Pelka,Round Trip,100.25,100.25
+12/23/2015,09:30 AM,04:15 PM,06:45,"PU: Home, 4 Farview Rd, Tenafly NJ; WT: Radio City Music Hall, 1260 Ave of the Americas,, New York City NY; DO: Home, 4 Farview Rd, Tenafly NJ; ",Daron Jones,Hourly Service,289.17,289.17
+12/23/2015,01:30 PM,04:00 PM,02:30,"PU: Home, 21 Overbrook Ln, Darien CT; DO: LaGuardia Airport; ",Steve Cid,Round Trip,105.00,105.00
+12/23/2015,01:30 PM,03:30 PM,02:00,"PU: NEST+m Science and Technology School, 111 Columbia Street, New York NY; DO: Home, 2287 Johnson Ave, Bronx NY; ",Eladio Lopez,Daily/Weekly Driver,63.99,63.99
+12/23/2015,02:00 PM,08:30 PM,06:30,"PU: New York, John F Kennedy International Airport, Lufthansa; DO: HOME - 3 Prospect Court, Hamden CT; ",Geoffrey Keller,One Way Pick Up,253.00,253.00
+12/23/2015,03:00 PM,07:45 PM,04:45,"PU: Home, 160 Lantern Ridge Rd., New Canaan CT; DO: Home, 160 Lantern Ridge Rd., New Canaan CT; ",Preston Goddard,Hourly Service,199.50,199.50
+12/23/2015,03:25 PM,07:45 PM,04:20,"PU: 24 Hollow Tree Place, Wilton CT; DO: LaGuardia Airport, American Airlines - AA; ",Jim Pelka,Round Trip,100.25,100.25
+12/23/2015,03:30 PM,05:30 PM,02:00,"PU: La Parma Italian Restaurant, 410 Merrick Road, Oceanside NY; DO: 156 Lee Ave, Hicksville NY; ",Gary Sanford,Drive-Me-Home Service,84.00,84.00
+12/23/2015,05:15 PM,10:00 PM,04:45,"PU: New York, LaGuardia Airport, Southwest Airlines - WN; DO: 31 Southwood Drive, New Canaan CT; ",Cesar Parra,Round Trip,87.64,87.64
+12/23/2015,05:45 PM,09:20 PM,03:35,"PU: LaGuardia Airport, JetBlue Airways - B6; DO: 223 Jennie Lane, Fairfield CT; ",Mark Clelford,Round Trip,94.98,94.98
+12/23/2015,07:15 PM,09:00 PM,01:45,"PU: 73 North St, Greenwich CT; DO: New York, LaGuardia Airport; ",David Santorsola,One Way Drop Off,85.68,85.68
+12/24/2015,04:00 AM,06:15 AM,02:15,"PU: 45 High Ridge Rd, Mt Kisco NY; DO: New York, John F Kennedy International Airport; ",Jim Pelka,Round Trip,106.50,106.50
+12/24/2015,04:00 AM,06:00 AM,02:00,"PU: Home, 3 Addee Circle, Larchmont NY; DO: New York, LaGuardia Airport; ",Jason Ramos,Round Trip,84.00,84.00
+12/24/2015,06:00 AM,08:00 AM,02:00,"PU: 17 Normandy Lane, New Rochelle New York; DO: John F Kennedy International Airport; ",James Pabon,Round Trip,84.00,84.00
+12/24/2015,06:40 AM,08:40 AM,02:00,"PU: 15 Birch Lane, Greenwich CT; DO: La Guardia Airport; ",Asif Khan,Round Trip,86.87,86.87
+12/24/2015,07:00 AM,09:15 AM,02:15,"PU: 31 Manor Lane, Larchmont NY; DO: Newark International Airport; ",Daron Jones,Round Trip,87.54,87.54
+12/24/2015,08:30 AM,11:00 AM,02:30,"PU: 65 Deerfield Lane South, Pleasantville NY; DO: LaGuardia Airport; ",Steve Cid,Round Trip,71.49,71.49
+12/24/2015,10:30 AM,12:30 PM,02:00,"PU: 9 Marion Road, Westport CT; DO: Westchester/White Plains; ",Jim Pelka,Round Trip,69.24,69.24
+12/24/2015,11:15 AM,03:20 PM,04:05,"PU: LaGuardia Airport, United Airlines - UA; DO: 23 Burritts Landing South, Westport CT; ",Cesar Parra,One Way Pick Up,98.56,98.56
+12/24/2015,11:15 AM,02:50 PM,03:35,"PU: New York, John F Kennedy International Airport, Air Berlin; DO: 7 Court of Oaks, Westport CT; ",Asif Khan,Round Trip,172.75,172.75
+12/24/2015,11:45 AM,03:15 PM,03:30,"PU: New York, John F Kennedy International Airport, Swiss Intl Airllines - LX; DO: 1364 Rock Rimmon Road, Stamford CT; ",Mark Clelford,Round Trip,192.78,192.78
+12/24/2015,12:00 PM,N/A,01:00,"PU: 1460 Macombs Road, Bronx NY; DO: 1460 Macombs Road, Bronx NY; ",N/A,Hourly Service,0.00,0.00
+12/24/2015,01:55 PM,04:45 PM,02:50,"PU: 47 Lincoln Ave, West Harrison NY; DO: John F Kennedy International Airport; ",Daron Jones,Round Trip,82.21,82.21
+12/24/2015,02:40 PM,05:00 PM,02:20,"PU: 79 Saxon Woods Road, White Plains NY; DO: John F Kennedy International Airport; ",Jim Pelka,Round Trip,72.29,72.29
+12/24/2015,05:00 PM,10:30 PM,05:30,"PU: 5 Lewis Ave, Dobbs Ferry NY; WT: Drive as Directed  ; DO: 5 Lewis Avenue, Dobbs Ferry NY; ",Steve Cid,Hourly Service,302.94,302.94
+12/24/2015,06:30 PM,10:15 PM,03:45,"PU: 139 Village Road, Green Village NJ; WT: 1410 Bridgeton Hill Road, Upper Black Eddy PA; DO: 139 Village Road, Green Village NJ; ",Alvin Robinson,Hourly Service,202.50,202.50
+12/24/2015,08:15 PM,01:15 AM,05:00,"PU: 32 Wallenberg Drive, Stamford CT; DO: 63 Cherry St, Floral Park NY; ",Rick Hutton,Drive-Me-Home Service,334.05,334.05
+12/24/2015,08:25 PM,N/A,01:00,"PU: 8 Clay Street, Huntington Station NY; DO: 21 Aftor Place, New York NY; ",N/A,Drive-Me-Home Service,0.00,0.00
+12/24/2015,10:00 PM,N/A,02:00,"PU: 6 Oxford Ln, Morristown NJ 07960; DO: 1331 Grand Street, Hoboken NJ; ",N/A,One Way Drop Off,0.00,0.00
+12/24/2015,10:55 PM,N/A,02:00,"PU: Home, 444 Thayer Pond Road, Wilton CT; WT: As directed - Norwalk, CT ; DO: Home, 444 Thayer Pond Road, Wilton CT; ",N/A,Hourly Service,0.00,0.00
+12/25/2015,05:15 AM,06:05 AM,00:50,"PU: 307 Sundance Rd, Stamford CT; DO: Westchester County Airport; ",Bill Nollman,Round Trip,108.00,108.00
+12/25/2015,05:30 AM,07:30 AM,02:00,"PU: 186 James St, Fairfield CT; DO: John F Kennedy International Airport, Delta Air Lines; ",Mark Clelford,Round Trip,108.00,108.00
+12/25/2015,06:00 AM,08:20 AM,02:20,"PU: 14 Rayfield Road, Westport CT; DO: New York, John F Kennedy International Airport, JetBlue Airways - B6; ",Asif Khan,Round Trip,91.39,91.39
+12/25/2015,06:15 AM,07:30 AM,01:15,"PU: 151 West 21st Street, New York NY; DO: La Guardia Airport; ",Alvin Robinson,One Way Drop Off,64.40,64.40
+12/25/2015,06:55 AM,09:30 AM,02:35,"PU: 70 Bickford Lane, New Canaan CT; DO: New York, John F Kennedy International Airport, American Airlines - AA; ",Philip Rosenberg,Round Trip,100.74,100.74
+12/25/2015,06:55 AM,N/A,01:00,"PU: 10 York Road, Larchmont NY; DO: New York, John F Kennedy International Airport; ",Daron Jones,Round Trip,0.00,0.00
+12/25/2015,10:45 AM,12:15 PM,01:30,"PU: Home, 17 Point O Woods Road, Darien CT; DO: LaGuardia Airport, Delta Air Lines - DL; ",Asif Khan,Round Trip,82.62,82.62
+12/25/2015,01:00 PM,02:30 PM,01:30,"PU: Home, 9 Great Hill Rd, Darien CT; DO: La Guardia Airport, United Airlines; ",Asif Khan,Round Trip,108.00,108.00
+12/25/2015,01:00 PM,03:15 PM,02:15,"PU: 23 Gault Park Drive, Westport CT; DO: LaGuardia Airport; ",Philip Rosenberg,Round Trip,97.11,97.11
+12/25/2015,03:00 PM,09:30 PM,06:30,"PU: Home, 880 5th Ave, New York NY; WT: As DirectedGreenwich NY; DO: Home, 880 5th Ave, New York NY; ",Daron Jones,Hourly Service,358.02,358.02
+12/25/2015,04:00 PM,05:15 PM,01:15,"PU: Home, 4 Brookside Park, Greenwich CT; DO: LaGuardia Airport; ",Asif Khan,One Way Drop Off,77.03,77.03
+12/25/2015,04:30 PM,05:35 PM,01:05,"PU: 21 Indian Head Road, Riverside CT; DO: New York, John F Kennedy International Airport; ",Philip Rosenberg,Round Trip,87.66,87.66
+12/25/2015,06:00 PM,N/A,01:00,"PU: Westchester/White Plains, JetBlue Airways; DO: 4a cherry lane, Westport CT; ",Asif Khan,One Way Pick Up,0.00,0.00
+12/25/2015,06:45 PM,10:10 PM,03:25,"PU: John F Kennedy International Airport, American Airlines; DO: 8 Tower Drive, Weston CT; ",Asif Khan,Round Trip,117.25,117.25
+12/25/2015,07:30 PM,09:10 PM,01:40,"PU: 57 Clinton Avenue, Rye NY; DO: John F Kennedy International Airport; ",John Searight,One Way Drop Off,110.16,110.16
+12/26/2015,03:55 AM,N/A,01:00,"PU: TBD, Woodbridge CT; DO: La Guardia Airport; ",N/A,Round Trip,0.00,0.00
+12/26/2015,04:00 AM,05:40 AM,01:40,"PU: 14 Moss Ledge Road, Westport CT; DO: La Guardia Airport, Southwest Airlines; ",Cesar Parra,One Way Drop Off,87.39,87.39
+12/26/2015,04:00 AM,06:00 AM,02:00,"PU: Home, 32 Delafield Island Road, Darien CT; DO: New York, LaGuardia Airport; ",Preston Goddard,Round Trip,85.68,85.68
+12/26/2015,04:45 AM,07:00 AM,02:15,"PU: Home, 15 Sheffield Way, Greenwich CT; DO: New York, John F Kennedy International Airport; ",Jim Pelka,Round Trip,96.39,96.39
+12/26/2015,05:00 AM,07:00 AM,02:00,"PU: Home, 22 Round Hill Club Road, Greenwich CT; DO: John F Kennedy International Airport, American Airlines; ",Jason Ramos,Round Trip,87.50,87.50
+12/26/2015,05:45 AM,07:10 AM,01:25,"PU: 203 East 72nd Street, New York City NY; DO: John F Kennedy International Airport; ",Daron Jones,Round Trip,85.68,85.68
+12/26/2015,05:45 AM,07:45 AM,02:00,"PU: 15 Outlook Drive, Darien CT; DO: Newark International Airport, United Airlines - UA; ",Asif Khan,One Way Drop Off,97.10,97.10
+12/26/2015,06:00 AM,08:30 AM,02:30,"PU: Home - 5 Mirabelle Ct, Mount Sinai NY; DO: La Guardia Airport, JetBlue Airways; ",Gary Sanford,Round Trip,105.00,105.00
+12/26/2015,06:10 AM,08:22 AM,02:12,"PU: Home, 27 Cross Highway, Westport CT; DO: New York, LaGuardia Airport; ",Ivan Delabrena,Round Trip,94.50,94.50
+12/26/2015,06:30 AM,09:00 AM,02:30,"PU: 252 High Street, Milford CT; DO: New York, LaGuardia Airport, Delta Air Lines - DL; ",Randy Shapiro,Round Trip,105.00,105.00
+12/26/2015,06:30 AM,08:50 AM,02:20,"PU: 1 Hickory Rd, Norwalk CT; DO: New York, John F Kennedy International Airport; ",Bill Nollman,Round Trip,102.41,102.41
+12/26/2015,09:00 AM,11:40 AM,02:40,"PU: Home, 60 Club Road, Riverside CT; DO: Newark International Airport, Delta Air Lines - DL; ",Preston Goddard,Round Trip,115.50,115.50
+12/26/2015,10:00 AM,12:00 PM,02:00,"PU: 63 Burning Tree Road, Greenwich CT; DO: La Guardia Airport; ",Jim Pelka,One Way Drop Off,73.48,73.48
+12/26/2015,11:55 AM,N/A,01:00,"PU: 100 Sasco River Lane, Southport CT; DO: New York, LaGuardia Airport; ",Asif Khan,Round Trip,42.00,42.00
+12/26/2015,12:30 PM,03:00 PM,02:30,"PU: 18 Rings End Road, Darien CT; DO: LaGuardia Airport, JetBlue Airways - B6; ",John Rooney,Round Trip,105.00,105.00
+12/26/2015,03:00 PM,05:35 PM,02:35,"PU: Home, 28 Rocaton Road, Darien CT; DO: John F Kennedy International Airport; ",Bill Nollman,Round Trip,117.81,117.81
+12/26/2015,03:15 PM,05:40 PM,02:25,"PU: 42 Ridgeley Street, Darien CT; DO: New York, John F Kennedy International Airport; ",Asif Khan,One Way Drop Off,79.09,79.09
+12/26/2015,03:45 PM,N/A,01:00,"PU: LaGuardia Airport, JetBlue Airways - B6; DO: 51 Ellsworth Road, Larchmont NY; ",Daron Jones,One Way Pick Up,0.00,0.00
+12/26/2015,04:30 PM,06:40 PM,02:10,"PU: 2 Grouse Path, Westport CT; DO: LaGuardia Airport, Aeromexico - AM; ",Preston Goddard,Round Trip,88.92,88.92
+12/26/2015,04:30 PM,07:35 PM,03:05,"PU: 23 Grace Street, New Canaan CT; DO: New York, John F Kennedy International Airport, Delta Air Lines - DL; ",Ivan Delabrena,Round Trip,91.93,91.93
+12/26/2015,05:00 PM,07:30 PM,02:30,"PU: 48 Arcadia Road, Old Greenwich CT; DO: New York, John F Kennedy International Airport; ",John Rooney,Round Trip,79.21,79.21
+12/26/2015,05:00 PM,07:45 PM,02:45,"PU: 48 Arcadia Road, Old Greenwich CT; DO: New York, John F Kennedy International Airport; ",Jim Pelka,One Way Drop Off,79.21,79.21
+12/26/2015,05:30 PM,02:00 AM,08:30,"PU: 11 Saint John Place, Port Washington NY; WT: 2011 Queen Ann Rd, Cherry Hills NJ; DO: 11 Saint John Place, Port Washington NY; ",Gary Sanford,Hourly Service,364.14,364.14
+12/26/2015,06:00 PM,08:45 PM,02:45,"PU: John F Kennedy International Airport, Delta Air Lines; DO: 282 Chestnut Hill Rd, Wilton CT; ",Asif Khan,Round Trip,102.92,102.92
+12/26/2015,08:00 PM,10:00 PM,02:00,"PU: Home, 172 Beech Street, Eastchester NY; DO: New York, John F Kennedy International Airport; ",Jason Ramos,One Way Drop Off,85.68,85.68
+12/27/2015,04:00 AM,05:30 AM,01:30,"PU: 4 Hillside Ct, Darien CT; DO: La Guardia Airport; ",Mark Clelford,Round Trip,70.43,70.43
+12/27/2015,04:23 AM,N/A,01:00,"PU: 2393 Main Street, Bridgeport CT; DO: 277 Helen St, Bridgeport CT; ",N/A,Hourly Service,0.00,0.00
+12/27/2015,05:40 AM,07:20 AM,01:40,"PU: 10 Bloomingdale Drive, Scarsdale NY; DO: John F Kennedy International Airport; ",Daron Jones,Round Trip,58.36,58.36
+12/27/2015,06:50 AM,08:00 AM,01:10,"PU: 101 Warren Street, New York NY; DO: Newark International Airport; ",Alvin Robinson,One Way Drop Off,52.80,52.80
+12/27/2015,07:00 AM,09:00 AM,02:00,"PU: 14 Moss Ledge Road, Westport CT; DO: LaGuardia Airport; ",Bill Nollman,Round Trip,88.92,88.92
+12/27/2015,09:30 AM,05:30 PM,08:00,"PU: Home, 80 Wright Street, Westport CT; WT: Metlife StadiumNew York NY; DO: Home, 80 Wright Street, Westport CT; ",Steve Cid,Hourly Service,342.72,342.72
+12/27/2015,10:30 AM,01:10 PM,02:40,"PU: 249 Fairmount Terrace, Fairfield CT; DO: New York, John F Kennedy International Airport, Delta Air Lines - DL; ",Asif Khan,One Way Drop Off,104.24,104.24
+12/27/2015,10:40 AM,01:20 PM,02:40,"PU: 109 Bedford Road, Sleepy Hollow NY; DO: LaGuardia Airport; ",Frank Dailey,Round Trip,65.34,65.34
+12/27/2015,11:30 AM,01:45 PM,02:15,"PU: New York, John F Kennedy International Airport, JetBlue Airways; DO: 453 Siwanoy Place, Pelham NY; ",Jim Pelka,Round Trip,38.43,38.43
+12/27/2015,11:30 AM,05:15 PM,05:45,"PU: 8 Tor Terrace, New City NY; WT: MetLife Stadium, 1 MetLife Stadium Drive, East Rutherford NJ; DO: 8 Tor Terrace, New City NY; ",Gary Wartenberg,Hourly Service,246.33,246.33
+12/27/2015,12:45 PM,02:45 PM,02:00,"PU: Home, 11 Burritts Landing North, Westport CT; DO: La Guardia Airport; ",Bill Nollman,One Way Drop Off,84.00,84.00
+12/27/2015,12:55 PM,02:55 PM,02:00,"PU: New York, LaGuardia Airport, Delta Air Lines - DL; DO: Home, 1455 Washington Blvd, Stamford CT; ",Preston Goddard,Round Trip,70.68,70.68
+12/27/2015,01:45 PM,04:15 PM,02:30,"PU: 449 Ridgefield Road, Wilton CT; DO: New York, LaGuardia Airport; ",Cesar Parra,One Way Drop Off,174.79,174.79
+12/27/2015,02:30 PM,05:05 PM,02:35,"PU: La Guardia Airport, Delta Air Lines; DO: 75 Pembroke Road, Darien CT; ",Asif Khan,Round Trip,120.29,120.29
+12/27/2015,02:45 PM,07:00 PM,04:15,"PU: New York, John F Kennedy International Airport, Delta Air Lines - DL; DO: 4 Bluewater Hill South, Westport CT; ",Jim Pelka,One Way Pick Up,120.14,120.14
+12/27/2015,02:45 PM,07:45 PM,05:00,"PU: Newark International Airport, United Airlines - UA; DO: 23 Old Huckleberry Road, Wilton CT; ",John Rooney,Round Trip,118.80,118.80
+12/27/2015,03:40 PM,04:40 PM,01:00,"PU: 156 Stratford Street South, Roslyn Heights NY; DO: John F Kennedy International Airport; ",Alvin Robinson,Round Trip,85.68,85.68
+12/27/2015,08:00 PM,11:45 PM,03:45,"PU: John F Kennedy International Airport, JetBlue Airways - B6; DO: Home, 134 Brookdale Rd, Stamford CT; ",Cesar Parra,Round Trip,144.15,144.15
+12/27/2015,11:15 PM,12:30 AM,01:15,"PU: Westchester/White Plains, JetBlue Airways - B6; DO: 345 Sierra Vista Lane, Valley Cottage NY 10989; ",Frank Dailey,Round Trip,54.00,54.00
+12/28/2015,05:00 AM,07:00 AM,02:00,"PU: 11 Wedgewood Road, Westport CT 06880; DO: New York, LaGuardia Airport; ",Geoffrey Keller,Round Trip,80.59,80.59
+12/28/2015,05:00 AM,07:50 AM,02:50,"PU: New York, John F Kennedy International Airport, Hawaiian Airlines - HA; DO: Home, 34 Prospect Avenue, Darien CT; ",Mark Clelford,Round Trip,126.00,126.00
+12/28/2015,05:10 AM,07:20 AM,02:10,"PU: New Home, 48 Walsh Lane, Greenwich CT; DO: New York, John F Kennedy International Airport, American Airlines - AA; ",Daron Jones,Round Trip,94.50,94.50
+12/28/2015,05:20 AM,09:15 AM,03:55,"PU: 10 Tokeneke Trail, Darien CT; DO: New York, John F Kennedy International Airport; DO: Drop off car at client's garage called Central Parking, 115 East 87th St, New York NY; ",James Pabon,Drive-Me-Home Service,194.50,194.50
+12/28/2015,05:55 AM,08:40 AM,02:45,"PU: 189 Old Kings Highway South, Darien CT; DO: New York, LaGuardia Airport; ",Cesar Parra,Round Trip,72.35,72.35
+12/28/2015,06:00 AM,08:00 AM,02:00,"PU: Home, 5 Sound View Court, Greenwich CT; DO: New York, LaGuardia Airport; ",John Rooney,Round Trip,58.68,58.68
+12/28/2015,06:00 AM,08:00 AM,02:00,"PU: Home, 35 Old Norwalk Road, New Canaan CT; DO: New York, LaGuardia Airport; ",Preston Goddard,Round Trip,84.00,84.00
+12/28/2015,09:30 AM,09:30 PM,12:00,"PU: 3 Marc Lane, Westport CT; DO: Hotel, TBD, New York City NY; ",Alvin Robinson,Hourly Service,432.60,432.60
+12/28/2015,10:00 AM,01:00 PM,03:00,"PU: 216 Weston Road, Weston CT; DO: John F Kennedy International Airport; ",Cesar Parra,One Way Drop Off,128.52,128.52
+12/28/2015,11:55 AM,03:30 PM,03:35,"PU: 597 Westport Avenue, Norwalk CT; DO: New York, John F Kennedy International Airport; ",John Rooney,Round Trip,90.31,90.31
+12/28/2015,12:00 PM,03:00 PM,03:00,"PU: Home, 870 United Nations Plaza, New York NY; WT: Drive as directed ; DO: 870 United Nations Plaza, New York NY; ",Wendell Gooding,Hourly Service,123.84,123.84
+12/28/2015,12:30 PM,03:15 PM,02:45,"PU: 127 Weaver Street, Greenwich CT; DO: New York, John F Kennedy International Airport; ",James Pabon,One Way Drop Off,70.43,70.43
+12/28/2015,01:00 PM,04:00 PM,03:00,"PU: LaGuardia Airport, United Airlines; DO: 7 Clark Street, Old Greenwich CT 06870; ",Geoffrey Keller,Round Trip,109.98,109.98
+12/28/2015,01:25 PM,05:35 PM,04:10,"PU: 8 Plaster House Road, Southbury CT; DO: New York, John F Kennedy International Airport; ",Edward Goldstein,Round Trip,78.00,78.00
+12/28/2015,03:30 PM,06:50 PM,03:20,"PU: New York, John F Kennedy International Airport, JetBlue Airways; DO: 800 Lake Avenue, Greenwich NY; ",David Santorsola,Round Trip,82.46,82.46
+12/28/2015,04:30 PM,N/A,01:00,"PU: John F Kennedy International Airport, British Airways; DO: 130 West 19, New York City NY; ",N/A,One Way Pick Up,0.00,0.00
+12/28/2015,05:00 PM,11:00 PM,06:00,"PU: 30 Central Parkway, Huntington NY; WT: Metropolitan Opera House, Lincoln Center Plaza, New York NY; DO: 30 Central Parkway, Huntington NY; ",Gary Sanford,Hourly Service,257.04,257.04
+12/28/2015,07:45 PM,11:30 PM,03:45,"PU: New York, John F Kennedy International Airport, JetBlue Airways; DO: 356 Black Rock Turnpike, Redding CT; ",Geoffrey Keller,Round Trip,157.50,157.50
+12/29/2015,04:30 AM,07:30 AM,03:00,"PU: New York, John F Kennedy International Airport, American Airlines - AA; DO: Home, 19 Rippowam Road, Stamford CT; ",John Rooney,Round Trip,143.75,143.75
+12/29/2015,07:00 AM,10:08 AM,03:08,"PU: 60 Range Rd, Southport CT; DO: John F Kennedy International Airport; ",Geoffrey Keller,One Way Drop Off,103.03,103.03
+12/29/2015,09:30 AM,10:30 PM,13:00,"PU: Hotel, TBD, New York City NY; DO: Hotel, TBD, New York City NY; ",Alvin Robinson,Hourly Service,468.65,468.65
+12/29/2015,10:30 AM,12:45 PM,02:15,"PU: 19 Edlie Ave, Norwalk CT; DO: New York, John F Kennedy International Airport; ",Asif Khan,One Way Drop Off,83.65,83.65
+12/29/2015,11:00 AM,01:35 PM,02:35,"PU: LaGuardia Airport, American Airlines; DO: 168 Gillies Lane, Norwalk CT; ",Bill Nollman,Round Trip,76.33,76.33
+12/29/2015,11:30 AM,03:00 PM,03:30,"PU: Newark International Airport, Delta Air Lines; DO: 1 Hickory Rd, Norwalk CT; ",Cesar Parra,Round Trip,149.35,149.35
+12/29/2015,12:30 PM,06:30 PM,06:00,"PU: Home, 26 East Gate Road, Lloyd Harbor NY; WT: NYC as directed ; DO: Home, 26 East Gate Road, Lloyd Harbor NY; ",Richard Young,Hourly Service,297.84,297.84
+12/29/2015,01:00 PM,11:35 PM,10:35,"PU: 78 Robbins Ave, Berkeley Heights NJ; WT: Empire State Building ; WT: 9/11 Museum ; WT: 9/11 Memorial ; WT: Rockefeller Center - Observation Deck ; DO: 78 Robbins Ave, Berkeley Heights NJ; ",Daron Jones,Hourly Service,435.53,435.53
+12/29/2015,02:30 PM,05:30 PM,03:00,"PU: John F Kennedy International Airport, Delta Air Lines; DO: 17 Normandy Lane, New Rochelle New York; ",James Pabon,Round Trip,105.10,105.10
+12/29/2015,03:00 PM,06:00 PM,03:00,"PU: LaGuardia Airport, American Airlines - AA; DO: 24 Hollow Tree Place, Wilton CT; ",Jim Pelka,Round Trip,106.69,106.69
+12/29/2015,04:30 PM,10:20 PM,05:50,"PU: 450 Washington St, New York NY; ST:  ; DO: 450 Washington St, New York NY; ",Rick Hutton,Hourly Service,257.04,257.04
+12/29/2015,05:30 PM,09:00 PM,03:30,"PU: Newark International Airport, United Airlines; DO: Home, 21 Overbrook Ln, Darien CT; ",Steve Cid,Round Trip,147.00,147.00
+12/29/2015,06:15 PM,09:30 PM,03:15,"PU: Newark International Airport, tba; DO: 215 Fair Oak Drive, Fairfield CT; ",Randy Shapiro,Round Trip,121.58,121.58
+12/29/2015,10:15 PM,12:00 AM,01:45,"PU: LaGuardia Airport, Delta Air Lines - DL; DO: 49 Creeping Hemlock Drive, Norwalk CT; ",Ivan Delabrena,Round Trip,84.00,84.00
+12/30/2015,05:30 AM,08:00 AM,02:30,"PU: Home, 118 Papermill Lane, Fairfield CT; DO: New York, John F Kennedy International Airport; ",John Rooney,Round Trip,70.00,70.00
+12/30/2015,10:00 AM,07:20 PM,09:20,"PU: 5 Fairhaven Lane, Port Chester NY; WT: As directed, New York, NY ; DO: 5 Fairhaven Lane, Port Chester NY; ",Daron Jones,Hourly Service,416.93,416.93
+12/30/2015,10:00 AM,11:45 AM,01:45,"PU: Westchester/White Plains, JetBlue Airways - B6; DO: Home, 47 Marion Road, Westport CT; ",Geoffrey Keller,Round Trip,85.68,85.68
+12/30/2015,10:15 AM,11:45 AM,01:30,"PU: Hotel, TBD, New York City NY; DO: 3 Marc Lane, Westport CT; ",Alvin Robinson,One Way Drop Off,102.10,102.10
+12/30/2015,10:45 AM,01:45 PM,03:00,"PU: LaGuardia Airport, American Airlines - AA; DO: 11 Honeysuckle Drive, Norwalk CT; ",Jim Pelka,Round Trip,80.68,80.68
+12/30/2015,11:00 AM,03:45 PM,04:45,"PU: Home, 870 United Nations Plaza, New York NY; WT: Drive as directed within NYC ; DO: 870 United Nations Plaza, New York NY; ",Wendell Gooding,Hourly Service,186.56,186.56
+12/30/2015,12:55 PM,03:10 PM,02:15,"PU: LaGuardia Airport; DO: Home, 21 Overbrook Ln, Darien CT; ",Preston Goddard,One Way Pick Up,94.50,94.50
+12/30/2015,01:30 PM,08:00 PM,06:30,"PU: 4 Sycamore Lane, White Plains NY; WT: 341 Eastern Parkway, Brooklyn NY; DO: Home, 4 Sycamore Lane, White Plains NY; ",Alvin Robinson,Hourly Service,273.00,273.00
+12/30/2015,01:30 PM,04:10 PM,02:40,"PU: Home, 10 Cricket Lane, Weston CT; DO: La Guardia Airport; ",Mark Clelford,Round Trip,117.81,117.81
+12/30/2015,02:00 PM,05:30 PM,03:30,"PU: New York, John F Kennedy International Airport, Virgin Atlantic; DO: 11 Keyser Rd, Westport CT; ",John Rooney,Round Trip,96.57,96.57
+12/30/2015,06:00 PM,08:00 PM,02:00,"PU: LaGuardia Airport, Spirit Airlines; DO: 65 Deerfield Lane South, Pleasantville NY; ",Steve Cid,Round Trip,83.76,83.76
+12/30/2015,06:00 PM,11:45 PM,05:45,"PU: 111 Centre Island Road, Oyster Bay NY; WT: 46th & 2nd Ave, New York NY; DO: 111 Centre Island Road, Oyster Bay NY; ",Eddie Sultan,Hourly Service,241.50,241.50
+12/30/2015,06:45 PM,08:00 PM,01:15,"PU: La Guardia Airport, JetBlue Airways; DO: Home, 37 Acorn Lane, Southport CT; ",Ivan Delabrena,Round Trip,85.68,85.68
+12/30/2015,07:00 PM,04:00 AM,09:00,"PU: 10 Mountain View Drive, Somers NY; WT: McLean Avenue, Yonkers NY; DO: 10 Mountain View Drive, Somers NY; ",James Pabon,Hourly Service,378.00,378.00
+12/30/2015,07:15 PM,09:15 PM,02:00,"PU: Westchester/White Plains, JetBlue Airways - B6; DO: Home, 22 St John Place, Westport CT; ",Preston Goddard,One Way Pick Up,85.68,85.68
+12/30/2015,07:45 PM,10:15 PM,02:30,"PU: New York, LaGuardia Airport, Delta Air Lines - DL; DO: Home, 27 Cross Highway, Westport CT; ",John Rooney,Round Trip,105.00,105.00
+12/30/2015,09:30 PM,12:00 AM,02:30,"PU: LaGuardia Airport, Delta Air Lines; DO: 234 East Hunting Ridge Road, Stamford CT; ",Jim Pelka,Round Trip,92.40,92.40
+12/30/2015,09:50 PM,12:50 AM,03:00,"PU: Newark Liberty International Airport, United Airlines; DO: 65 Beach Avenue, Larchmont NY; ",Steve Cid,Round Trip,84.86,84.86
+12/30/2015,10:25 PM,12:45 AM,02:20,"PU: LaGuardia Airport, Delta Air Lines - DL; DO: 4 Brookside Park, Greenwich CT 06831; ",David Francis,One Way Pick Up,105.00,105.00
+12/31/2015,04:55 AM,N/A,00:23,"PU: 43 Hook Lane, Levittown NY; DO: John F Kennedy International Airport; ",N/A,One Way Drop Off,0.00,0.00
+12/31/2015,05:00 AM,07:15 AM,02:15,"PU: 47 Brushy Ridge Rd, New Canaan CT; DO: John F Kennedy International Airport; ",Tom Belviso (TR),Round Trip,100.51,100.51
+12/31/2015,05:45 AM,07:55 AM,02:10,"PU: 6 Sandhopper Trail, Westport CT; DO: La Guardia Airport; ",Asif Khan,Round Trip,84.28,84.28
+12/31/2015,07:40 AM,N/A,01:00,"PU: 47 Woodside Ave.Westport CT; DO: New York, John F Kennedy International Airport; ",John Rooney,Round Trip,0.00,0.00
+12/31/2015,10:00 AM,02:00 PM,04:00,"PU: Home, 240 Riverside Blvd, New York NY; DO: Home, 240 Riverside Blvd, New York NY; ",James Pabon,Hourly Service,153.00,153.00
+12/31/2015,10:35 AM,01:15 PM,02:40,"PU: New York, John F Kennedy International Airport, JetBlue Airways - B6; DO: 229 Rowayton Avenue, Norwalk CT; ",Preston Goddard,Round Trip,87.03,87.03
+12/31/2015,12:15 PM,03:00 PM,02:45,"PU: LaGuardia Airport, American Airlines - AA; DO: 4 Mittman Road, Rye NY; ",Cesar Parra,Round Trip,71.66,71.66
+12/31/2015,12:45 PM,02:15 PM,01:30,"PU: Westchester County Airport, JetBlue Airways; DO: 14 Rayfield Road, Westport CT; ",Asif Khan,Round Trip,101.33,101.33
+12/31/2015,02:00 PM,05:15 PM,03:15,"PU: New York, John F Kennedy International Airport, American Airlines; DO: 9 Marion Road, Westport CT; ",Jim Pelka,Round Trip,97.36,97.36
+12/31/2015,02:15 PM,04:25 PM,02:10,"PU: La Guardia Airport, United Airlines; DO: Home, 9 Great Hill Rd, Darien CT; ",Preston Goddard,Round Trip,94.50,94.50
+12/31/2015,02:50 PM,05:40 PM,02:50,"PU: New York, John F Kennedy International Airport, Delta Air Lines - DL; DO: Home, 15 Sheffield Way, Greenwich CT; ",Steve Cid,Round Trip,128.52,128.52
+12/31/2015,03:15 PM,N/A,01:30,"PU: 950 Townsend Ave, New Haven CT; DO: JFK - New York, NY [John F. Kennedy International Airport] USA; ",N/A,One Way Drop Off,0.00,0.00
+12/31/2015,04:00 PM,06:30 PM,02:30,"PU: New York, John F Kennedy International Airport, Delta Air Lines - DL; DO: 136 Brite Ave, Scarsdale NY; ",Daron Jones,Round Trip,76.62,76.62
+12/31/2015,05:00 PM,04:00 AM,11:00,"PU: 20 Andrews Farm Road, Greenwich CT; WT: Pier 94, 711 12th Ave ; DO: 20 Andrews Farm Road, Greenwich CT; ",Alvin Robinson,Hourly Service,605.88,605.88
+12/31/2015,06:15 PM,01:15 AM,07:00,"PU: Home, 130 Newtown Turnpike, Weston CT; WT: Drive as directed. ; DO: Home, 130 Newtown Turnpike, Weston CT; ",Steve Cid,Hourly Service,385.56,385.56
+12/31/2015,06:30 PM,02:00 AM,07:30,"PU: 711 Willis Ave, Williston Park NY; ST:  ; DO: 711 Willis Ave, Williston Park NY; ",Gary Sanford,Hourly Service,413.10,413.10
+12/31/2015,07:20 PM,N/A,01:00,"PU: Home, 522 Hampton Hill Road, Franklin Lakes NJ; WT: As Directed ; DO: Home, 522 Hampton Hill Road, Franklin Lakes NJ; ",N/A,Hourly Service,0.00,0.00
+12/31/2015,07:30 PM,01:00 AM,05:30,"PU: 450 Woodlands Road, Harrison NY; ST: As DirectedRye NY; WT: Capital TheaterPortchester NY; DO: 450 Woodlands Road, Harrison NY; ",Philip Rosenberg,Hourly Service,297.00,297.00
+12/31/2015,07:45 PM,10:40 PM,02:55,"PU: New York, John F Kennedy International Airport, JetBlue Airways - B6; DO: Home, 32 Strawberry Hill Avenue, Norwalk CT; ",Mark Clelford,Round Trip,162.00,162.00
+12/31/2015,07:55 PM,N/A,02:00,"PU: 86 W Norwalk Rd, Norwalk CT; WT: 263 Golden Hill Street, Bridgeport CT; DO: 86 W Norwalk Rd, Norwalk CT; ",Tom Belviso (TR),Hourly Service,0.00,0.00
+12/31/2015,08:55 PM,N/A,01:00,"PU: 32 Reni Road, Manhasset NY; WT: TBD - Long Island Locations ; DO: 32 Reni Road, Manhasset NY; ",N/A,Hourly Service,0.00,0.00
+12/31/2015,09:30 PM,11:30 PM,02:00,"PU: New York, John F Kennedy International Airport, JetBlue Airways; DO: 11 Marianna Drive, Hastings-on-Hudson NY; ",James Pabon,Round Trip,110.16,110.16
+12/31/2015,09:30 PM,12:00 AM,02:30,"PU: New York, John F Kennedy International Airport, American Airlines - AA; DO: 45 High Ridge Rd, Mt Kisco NY; ",Asif Khan,Round Trip,135.00,135.00
+12/31/2015,10:20 PM,N/A,01:00,"PU: New York, John F Kennedy International Airport, JetBlue Airways; DO: 10 York Road, Larchmont NY; ",N/A,Round Trip,0.00,0.00
+12/31/2015,11:00 PM,01:05 AM,02:05,"PU: Newark International Airport, United Airlines; DO: 31 Manor Lane, Larchmont NY; ",Daron Jones,Round Trip,92.49,92.49
+12/31/2015,11:00 PM,02:35 AM,03:35,"PU: Home, 188 Hoyt Farm Road, New Canaan CT; WT: As Directed in New Caanan ; DO: Home, 188 Hoyt Farm Road, New Canaan CT; ",David Francis,Hourly Service,206.55,206.55
+12/31/2015,11:40 PM,N/A,02:30,"PU: 52 Larkspur Avenue, Merrick NY; DO: 3577 Verona Place, Seaford NY; ",N/A,Drive-Me-Home Service,0.00,0.00
+12/31/2015,11:55 PM,N/A,01:00,"PU: 291 N Broadway, Yonkers NY; WT: TBD - Clubs in city ; DO: 291 N Broadway, Yonkers NY; ",David Santorsola,Hourly Service,0.00,0.00
