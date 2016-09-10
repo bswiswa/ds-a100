@@ -1,16 +1,13 @@
 # TODO: Add comment
 # 
-# Author: kps3 (mod. bswiswa)
+# Author: kps3
 ###############################################################################
 
-# library(xlsx) optional package to read xlsx format. CSV used in this case
-install.packages("gmapsdistance")
-# gmaps distance package for time estimates
+library(xlsx)
 library(gmapsdistance)
-# get data
-dataSet = read.table("Sample Data Dec 15.csv", header=TRUE, sep=",", as.is = TRUE)
-# look at data
-str(dataSet)
+
+#alldataSet = read.xlsx("All Trip Sheet.xlsx", sheetIndex=1, header=TRUE)
+dataSet <- read.table("Sample Data Dec 15.csv", header=TRUE, sep=",", as.is = TRUE)
 
 
 address1 = URLencode("Webster Hall, 10038,, 125 East 11th Street, New York, NY 10003")
@@ -25,9 +22,8 @@ results = gmapsdistance(origin = c(address1,address3),
 		mode = "driving",
 		traffic_model="optimistic",
 		key='AIzaSyAkkAciTuCFe9tKgQOk4y4R4T6V3UccowQ')
-# look at sample results
-results
-str(results)
+
+
 results = gmapsdistance(origin = c("Seattle+WA", "Miami+FL"),
 		destination = c("Chicago+IL", "Philadelphia+PA"),
 		mode = "bicycling",
@@ -42,17 +38,15 @@ origins = gsub("(.*PU: )(.*?)(;.*)","\\2",routes)
 destinations = gsub("(.*DO: )(.*?)(;.*)","\\2",routes)
 
 #TODO check with rob that its ok to parse this as follows
-#strip the comment before the comma by looking for the street number
+#strip the comment before the comma by looking for the streat number
 origins[-grep("[Aa]ir", origins)] = gsub("(^.*?, )([0-9].*)","\\2",origins[-grep("[Aa]ir", origins)])
-# eg "Home, 149 Winchester Ave, New Haven, CT " loses the initial "Home"
 destinations[-grep("[Aa]ir", destinations)] = gsub("(^.*?, )([0-9].*)","\\2",destinations[-grep("[Aa]ir", destinations)])
-# same with destinations
 
-#HTML encode the origins and destinations (more suitable to gmapsdistance)
+#HTML encode the origins and destinations
 origins = sapply(origins, URLencode)
 destinations = sapply(destinations, URLencode)
 
-#select only the airports (returns all indexes with an airport origin or destination)
+#select only the airports
 inds = union(grep("[Aa]ir", origins),grep("[Aa]ir", destinations))
 #durations = gmapsdistance(
 #		origin = origins[inds],
@@ -62,19 +56,55 @@ inds = union(grep("[Aa]ir", origins),grep("[Aa]ir", destinations))
 #		traffic_model="optimistic",
 #		key='AIzaSyAkkAciTuCFe9tKgQOk4y4R4T6V3UccowQ')
 
+
 #save(durations, file="Durations.RData")
 load(file="Durations.RData")
-driveTimeMinutes = durations$Time$Time/60
+googleTime = durations$Time$Time/60
+# add googleTime to data
+data = cbind(dataSet[inds,], googleTime)
+# remove NAs
+data= na.omit(data)
 
-##############################
-# processing needed
-# need variable PU.Day - which contains the day of the week of the pickup
-# need variable Actual.Duration which has the actual MINUTES the journey took
-# need to separate all my calculations by the Service.Type
+data$Duration = as.numeric(strptime(data$Duration,"%H:%M")-strptime("00:00","%H:%M"))
 
-# optional
-# best driver?
+data$PU.Time = as.numeric(strptime(data$PU.Time,"%H:%M %p") - strptime("00:00","%H:%M"))
+
+DayOfWeek = weekdays(as.Date(data$PU.Date,"%m/%d/%Y"))
+
+#excluding monday to avoid colinearity create day of week variables
+week = c("Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday")
+weekData = data.frame(matrix(0, dim(data)[1],6))
+colnames(weekData)= week
+for(day in week){
+	weekData[DayOfWeek==day, day]=1
+}
+data = cbind(data, weekData)
+
+plot(density(data$Duration))
+plot(density(data$googleTime))
+
+plot(data$Duration, data$googleTime)
+data = data[data$googleTime!=0,]
+data = data[data$googleTime<200,]
+plot(data$Duration, data$googleTime)
+
+variables = c("PU.Time","googleTime", week)
+
+z <- cor(data[,c("Duration",variables)])
+require(lattice)
+levelplot(z,scales=list(x=list(rot=90,cex=0.5),y=list(cex=0.5)),at=1:20/10-1,pretty=TRUE)
 
 
+formula = paste("Duration",paste(variables,collapse = '+'),sep='~')
+fit <- lm(formula, data=data)
 
+summary(fit)
 
+beta = as.matrix(as.numeric(fit$coefficients))
+
+X <- as.matrix(cbind(1,data[,variables]))
+yhat= X%*%beta
+
+plot(data$Duration,type='l')
+lines(yhat, col='red')
+lines(data$googleTime, col='blue')
