@@ -1,0 +1,50 @@
+---
+title: "Slidy Outro"
+output: slidy_presentation
+css: "sample-css.css"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = F)
+```
+
+## R Markdown
+
+This is an R Markdown presentation. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+
+When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document.
+
+## Slide with Bullets
+
+- Bullet 1
+- Bullet 2
+- Bullet 3
+
+## Slide with R Output
+
+```{r data, echo = TRUE}
+# you need to load a datafile first before
+# you can use it
+load("sampledata.RData")
+# show code with results
+# if echo = TRUE, the code will be seen
+summary(b$Trip.Total, 2)
+# you can even plot on the slide
+hist(b$Trip.Total)
+
+```
+
+## Slide with Plot
+
+```{r pressure}
+plot(pressure)
+```
+
+## New Slide with Code Chunk
+```{r new_code_chunk, echo = FALSE}
+
+```
+
+## Slide with embedded code
+
+The square root of 69 is `r sqrt(69)`
