@@ -7,7 +7,7 @@ library(xlsx)
 library(gmapsdistance)
 
 #alldataSet = read.xlsx("All Trip Sheet.xlsx", sheetIndex=1, header=TRUE)
-dataSet <- read.table("Sample Data Dec 15.csv", header=TRUE, sep=",", as.is = TRUE)
+dataSet <- read.table("Sample Data Dec 15.csv", header=TRUE, sep=",")
 
 
 address1 = URLencode("Webster Hall, 10038,, 125 East 11th Street, New York, NY 10003")

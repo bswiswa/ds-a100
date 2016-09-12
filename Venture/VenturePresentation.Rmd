@@ -1,0 +1,102 @@
+---
+title: "I Drive Your Car&trade;  Venture Project"
+subtitle: "A100 Data Science Pilot Cohort"
+author:
+- Andrew Guthrie, Batsirai Swiswa, Clara Wong, Gadareth Higgs and Wale Jegede
+
+
+date: "`r format(Sys.time(), '%d %B %Y')`"
+
+output: slidy_presentation
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+load("ventureDataFile.RData")
+```
+
+## Define The Goal
+Transition from time-based charges to fixed base prices and modifying multipliers
+
+## Venture Data
+```{r first_look, echo = TRUE}
+str(dataSet)
+```
+7 variables:
+
+
+**PU.Date**, **PU.Time**, DO.Time, **Duration**, **Routing.Details**, Driver and Service Type
+
+
+
+## Modified Data {.tabcontent}
+```{r our_data, echo=TRUE}
+str(data)
+```
+- pickup.day
+- driver
+- origin
+- dest
+- actualTime
+- gTime
+- gDistance
+- to.airport
+
+
+## Comparing time distributions
+
+```{r duration_densities, echo = FALSE}
+par(mfrow=c(2,1), mar=c(5,5,2,1))
+plot(density(all.data$actualTime),
+     main="Density plot for Actual Ride Durations",
+     xlab = "Duration(min)")
+plot(density(all.data$gTime),
+     main="Density plot for Predicted Ride Durations",
+     xlab = "Duration(min)")
+```
+
+## 
+
+```{r scatterplot, echo=FALSE}
+par(mar=c(5,5,4,1))
+# compare predicted to actual driving times
+plot(all.data$gTime,all.data$actualTime,
+     main="Comparison of Actual vs Predicted\n Driving Times",
+     xlab="Predicted Time(min)",
+     ylab="Actual Time(min)",
+      xlim=c(0,500),
+     pch=19,
+     col="blue")
+```
+
+
+## 
+
+```{r scatterplot2, hide-par, echo=11}
+par(mar=c(5,5,4,1))
+# compare predicted to actual driving times
+plot(all.data$gTime,all.data$actualTime,
+     main="Comparison of Actual vs Predicted\n Driving Times",
+     xlab="Predicted Time(min)",
+     ylab="Actual Time(min)",
+     pch=19,
+     col="blue")
+# plot regression
+abline(fit1, col="red", lwd=2)
+coef(fit1)
+# add legend
+
+
+```
+
+## Actual time vs Model Predictions
+```{r model vs actual}
+plot(all.data$actualTime,type='l',
+     main="Comparison of actual times and model predictions",
+     ylab="Time(min)")
+lines(yhat, col='red')
+lines(all.data$gTime, col='blue')
+
+```
+
+
